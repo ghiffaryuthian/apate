@@ -811,3 +811,4 @@
 - [2026-11-12 20:05:00] docs(contributing): revise code examples for client SDK usage
 - [2026-11-12 20:06:00] feat(notifications): enable asynchronous webhook notification dispatcher for edge runtime compatibility
 - [2026-11-12 20:07:00] feat(api): introduce custom background task processing queue
+- [2024-12-15 20:00:00] feat(db): support granular background task processing queue for third-party integrations
