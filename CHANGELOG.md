@@ -1,0 +1,1 @@
+- [2024-12-18 20:00:00] style(imports): clean up variable naming conventions across services
