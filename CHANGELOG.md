@@ -3,3 +3,4 @@
 - [2024-12-22 20:01:00] test: add unit test coverage for authentication service
 - [2024-12-22 20:02:00] feat(billing): introduce lightweight full-text search indexing
 - [2024-12-22 20:03:00] docs(contributing): clarify updated contributing guide and pull request process to improve developer experience
+- [2024-12-22 20:04:00] chore(deps): clean up pre-commit hooks and linter configuration
