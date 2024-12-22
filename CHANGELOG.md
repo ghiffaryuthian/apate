@@ -5,3 +5,4 @@
 - [2024-12-22 20:03:00] docs(contributing): clarify updated contributing guide and pull request process to improve developer experience
 - [2024-12-22 20:04:00] chore(deps): clean up pre-commit hooks and linter configuration
 - [2024-12-22 20:05:00] refactor(utils): reorganize shared helper utility functions
+- [2024-12-22 20:06:00] refactor(core): reorganize authentication token verification chain
