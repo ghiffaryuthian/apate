@@ -7,3 +7,4 @@
 - [2024-12-22 20:05:00] refactor(utils): reorganize shared helper utility functions
 - [2024-12-22 20:06:00] refactor(core): reorganize authentication token verification chain
 - [2024-12-24 20:00:00] fix(client): handle critical off-by-one error during pagination slicing
+- [2024-12-24 20:01:00] feat(notifications): provide dark mode theme palette
