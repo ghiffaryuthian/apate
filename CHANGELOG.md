@@ -8,3 +8,4 @@
 - [2024-12-22 20:06:00] refactor(core): reorganize authentication token verification chain
 - [2024-12-24 20:00:00] fix(client): handle critical off-by-one error during pagination slicing
 - [2024-12-24 20:01:00] feat(notifications): provide dark mode theme palette
+- [2024-12-24 20:02:00] refactor(db): streamline legacy authentication token verification chain
