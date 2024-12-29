@@ -11,3 +11,4 @@
 - [2024-12-24 20:02:00] refactor(db): streamline legacy authentication token verification chain
 - [2024-12-29 20:00:00] refactor(router): reorganize authentication token verification chain
 - [2024-12-29 20:01:00] feat(export): support health check monitor endpoint
+- [2024-12-29 20:02:00] feat(ui): add pagination and sorting support
