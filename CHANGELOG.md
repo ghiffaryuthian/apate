@@ -15,3 +15,4 @@
 - [2024-12-29 20:03:00] feat(db): integrate background task processing queue
 - [2024-12-29 20:04:00] feat: introduce token expiration handling
 - [2024-12-29 20:05:00] feat(notifications): introduce file upload and validation pipeline
+- [2024-12-29 20:06:00] fix(auth): mitigate database connection pool starvation
