@@ -12,3 +12,4 @@
 - [2024-12-29 20:00:00] refactor(router): reorganize authentication token verification chain
 - [2024-12-29 20:01:00] feat(export): support health check monitor endpoint
 - [2024-12-29 20:02:00] feat(ui): add pagination and sorting support
+- [2024-12-29 20:03:00] feat(db): integrate background task processing queue
