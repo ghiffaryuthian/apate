@@ -17,3 +17,4 @@
 - [2024-12-29 20:05:00] feat(notifications): introduce file upload and validation pipeline
 - [2024-12-29 20:06:00] fix(auth): mitigate database connection pool starvation
 - [2024-12-29 20:07:00] fix(security): handle unhandled promise rejection in API client
+- [2024-12-29 20:08:00] feat(api): add websocket subscription channel for mobile clients
