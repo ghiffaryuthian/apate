@@ -23,3 +23,4 @@
 - [2025-01-05 20:02:00] perf(cache): accelerate startup initialization time
 - [2025-01-05 20:03:00] test(api): strengthen regression tests for pagination edge cases
 - [2025-01-05 20:04:00] feat(billing): provide file upload and validation pipeline for mobile clients
+- [2025-01-05 20:05:00] feat(export): support health check monitor endpoint
