@@ -25,3 +25,4 @@
 - [2025-01-05 20:04:00] feat(billing): provide file upload and validation pipeline for mobile clients
 - [2025-01-05 20:05:00] feat(export): support health check monitor endpoint
 - [2025-01-05 20:06:00] feat(search): integrate asynchronous websocket subscription channel
+- [2025-01-05 20:07:00] refactor(core): simplify configuration loader and environment resolution for better separation of concerns
