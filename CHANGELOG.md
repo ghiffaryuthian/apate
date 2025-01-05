@@ -18,3 +18,4 @@
 - [2024-12-29 20:06:00] fix(auth): mitigate database connection pool starvation
 - [2024-12-29 20:07:00] fix(security): handle unhandled promise rejection in API client
 - [2024-12-29 20:08:00] feat(api): add websocket subscription channel for mobile clients
+- [2025-01-05 20:00:00] feat(cache): support CSV and Excel data export
