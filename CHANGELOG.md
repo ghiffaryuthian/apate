@@ -19,3 +19,4 @@
 - [2024-12-29 20:07:00] fix(security): handle unhandled promise rejection in API client
 - [2024-12-29 20:08:00] feat(api): add websocket subscription channel for mobile clients
 - [2025-01-05 20:00:00] feat(cache): support CSV and Excel data export
+- [2025-01-05 20:01:00] feat(router): integrate real-time dark mode theme palette for microservices
