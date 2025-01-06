@@ -32,3 +32,4 @@
 - [2025-01-06 20:03:00] docs(examples): add contributing guide and pull request process
 - [2025-01-06 20:04:00] fix: handle unhandled database connection pool starvation
 - [2025-01-06 20:05:00] docs: expand step-by-step api reference for authentication endpoints for new contributors
+- [2025-01-06 20:06:00] docs(examples): expand missing installation and setup instructions in readme
