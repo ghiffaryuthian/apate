@@ -27,3 +27,4 @@
 - [2025-01-05 20:06:00] feat(search): integrate asynchronous websocket subscription channel
 - [2025-01-05 20:07:00] refactor(core): simplify configuration loader and environment resolution for better separation of concerns
 - [2025-01-06 20:00:00] chore(deps): bump dependencies in lockfile to latest patch
+- [2025-01-06 20:01:00] fix(worker): correct memory leak in background worker loop
