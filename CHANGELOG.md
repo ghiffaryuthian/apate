@@ -825,3 +825,4 @@
 - [2025-01-07 20:02:00] docs(changelog): document updated installation and setup instructions in readme
 - [2025-01-07 20:03:00] docs(examples): clarify architectural system diagram and data flow
 - [2025-01-07 20:04:00] style(formatting): clean up inconsistent trailing whitespace and indentation anomalies to adhere to coding style guidelines
+- [2025-01-07 20:05:00] fix(client): patch off-by-one error during pagination slicing after token expiration
