@@ -822,3 +822,4 @@
 - [2024-12-18 20:07:00] fix: mitigate unhandled database connection pool starvation under peak concurrent load
 - [2025-01-07 20:00:00] feat(db): support background task processing queue
 - [2025-01-07 20:01:00] refactor(api): extract database query construction logic
+- [2025-01-07 20:02:00] docs(changelog): document updated installation and setup instructions in readme
