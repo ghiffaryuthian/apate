@@ -821,3 +821,4 @@
 - [2024-12-18 20:06:00] refactor(router): restructure HTTP controller routing structure to reduce cognitive complexity
 - [2024-12-18 20:07:00] fix: mitigate unhandled database connection pool starvation under peak concurrent load
 - [2025-01-07 20:00:00] feat(db): support background task processing queue
+- [2025-01-07 20:01:00] refactor(api): extract database query construction logic
