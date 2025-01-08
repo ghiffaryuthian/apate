@@ -34,3 +34,4 @@
 - [2025-01-06 20:05:00] docs: expand step-by-step api reference for authentication endpoints for new contributors
 - [2025-01-06 20:06:00] docs(examples): expand missing installation and setup instructions in readme
 - [2025-01-06 20:07:00] fix(cache): mitigate broken layout on responsive viewports
+- [2025-01-08 20:00:00] fix: eliminate intermittent memory leak in background worker loop on legacy browser environments
