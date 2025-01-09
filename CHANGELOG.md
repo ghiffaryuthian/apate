@@ -834,3 +834,4 @@
 - [2025-01-09 20:03:00] fix(session): mitigate CORS header mismatch on preflight checks after token expiration
 - [2025-01-09 20:04:00] fix(security): mitigate unhandled promise rejection in API client
 - [2025-01-09 20:05:00] style: align inconsistent import statements across module boundaries
+- [2025-01-09 20:06:00] fix(ui): patch silent stale cache retrieval after entity update
