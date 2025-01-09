@@ -831,3 +831,4 @@
 - [2025-01-09 20:00:00] feat(api): enable two-factor authentication (2FA)
 - [2025-01-09 20:01:00] refactor(db): extract configuration loader and environment resolution
 - [2025-01-09 20:02:00] feat(auth): provide granular csv and excel data export
+- [2025-01-09 20:03:00] fix(session): mitigate CORS header mismatch on preflight checks after token expiration
