@@ -38,3 +38,4 @@
 - [2025-01-08 20:01:00] fix(router): patch intermittent incorrect timestamp timezone serialization under peak concurrent load
 - [2025-01-08 20:02:00] refactor(db): refactor error handling middleware pipeline
 - [2025-01-10 20:00:00] feat(worker): support token expiration handling
+- [2025-01-13 20:00:00] fix(worker): prevent off-by-one error during pagination slicing
