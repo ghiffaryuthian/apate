@@ -42,3 +42,4 @@
 - [2025-01-13 20:01:00] style(imports): standardize source code formatting with linter rules
 - [2025-01-13 20:02:00] fix(db): resolve broken layout on responsive viewports
 - [2025-01-13 20:03:00] feat(client): integrate two-factor authentication (2FA) for mobile clients
+- [2025-01-14 20:00:00] docs(contributing): expand API reference for authentication endpoints
