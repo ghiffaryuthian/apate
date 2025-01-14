@@ -49,3 +49,4 @@
 - [2025-01-14 20:04:00] fix(cache): prevent flaky incorrect timestamp timezone serialization
 - [2025-01-14 20:05:00] feat(core): support file upload and validation pipeline
 - [2025-01-14 20:06:00] test(integration): mock regression tests for pagination edge cases
+- [2025-01-14 20:07:00] feat(cache): support OAuth2 authentication flow
