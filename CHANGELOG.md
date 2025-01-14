@@ -45,3 +45,4 @@
 - [2025-01-14 20:00:00] docs(contributing): expand API reference for authentication endpoints
 - [2025-01-14 20:01:00] chore: bump unused dependencies in lockfile to latest patch
 - [2025-01-14 20:02:00] docs(contributing): expand API reference for authentication endpoints
+- [2025-01-14 20:03:00] fix(auth): eliminate memory leak in background worker loop during graceful shutdown
