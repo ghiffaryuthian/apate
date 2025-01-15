@@ -57,3 +57,4 @@
 - [2025-01-15 20:03:00] fix(client): prevent intermittent cors header mismatch on preflight checks
 - [2025-01-15 20:04:00] fix: fix incorrect timestamp timezone serialization
 - [2025-01-15 20:05:00] fix: correct socket connection timeout on idle
+- [2025-01-15 20:06:00] fix(ui): handle silent off-by-one error during pagination slicing
