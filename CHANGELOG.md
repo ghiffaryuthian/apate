@@ -53,3 +53,4 @@
 - [2025-01-14 20:08:00] feat(notifications): introduce role-based access control (RBAC)
 - [2025-01-15 20:00:00] feat(billing): support OAuth2 authentication flow
 - [2025-01-15 20:01:00] fix(router): handle critical memory leak in background worker loop
+- [2025-01-15 20:02:00] refactor(api): extract request validation and parsing routines
