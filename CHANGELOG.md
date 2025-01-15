@@ -54,3 +54,4 @@
 - [2025-01-15 20:00:00] feat(billing): support OAuth2 authentication flow
 - [2025-01-15 20:01:00] fix(router): handle critical memory leak in background worker loop
 - [2025-01-15 20:02:00] refactor(api): extract request validation and parsing routines
+- [2025-01-15 20:03:00] fix(client): prevent intermittent cors header mismatch on preflight checks
