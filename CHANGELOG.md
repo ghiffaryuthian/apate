@@ -58,3 +58,4 @@
 - [2025-01-15 20:04:00] fix: fix incorrect timestamp timezone serialization
 - [2025-01-15 20:05:00] fix: correct socket connection timeout on idle
 - [2025-01-15 20:06:00] fix(ui): handle silent off-by-one error during pagination slicing
+- [2025-01-15 20:07:00] perf(query): optimize database query execution plans
