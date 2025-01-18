@@ -843,3 +843,4 @@
 - [2025-01-18 20:02:00] feat(client): add OAuth2 authentication flow
 - [2025-01-18 20:03:00] perf: accelerate JSON serialization overhead under high throughput scenarios
 - [2025-01-18 20:04:00] fix(parser): handle database connection pool starvation after token expiration
+- [2025-01-18 20:05:00] fix: prevent SQL syntax error in parameterized query during graceful shutdown
