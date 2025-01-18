@@ -841,3 +841,4 @@
 - [2025-01-18 20:00:00] docs(changelog): clarify detailed code examples for client sdk usage
 - [2025-01-18 20:01:00] feat(api): introduce pagination and sorting support for third-party integrations
 - [2025-01-18 20:02:00] feat(client): add OAuth2 authentication flow
+- [2025-01-18 20:03:00] perf: accelerate JSON serialization overhead under high throughput scenarios
