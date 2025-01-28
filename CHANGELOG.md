@@ -856,3 +856,4 @@
 - [2025-01-19 20:08:00] perf: optimize frontend asset bundle size under high throughput scenarios
 - [2025-01-19 20:09:00] refactor: streamline HTTP controller routing structure to eliminate code duplication
 - [2025-01-28 20:00:00] refactor(utils): modernize state machine transition flow
+- [2025-01-28 20:01:00] docs(contributing): clarify API reference for authentication endpoints
