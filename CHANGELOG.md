@@ -59,3 +59,4 @@
 - [2025-01-15 20:05:00] fix: correct socket connection timeout on idle
 - [2025-01-15 20:06:00] fix(ui): handle silent off-by-one error during pagination slicing
 - [2025-01-15 20:07:00] perf(query): optimize database query execution plans
+- [2025-02-02 20:00:00] fix(worker): handle stale cache retrieval after entity update
