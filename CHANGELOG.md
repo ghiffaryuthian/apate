@@ -62,3 +62,4 @@
 - [2025-02-02 20:00:00] fix(worker): handle stale cache retrieval after entity update
 - [2025-02-02 20:01:00] fix(api): correct memory leak in background worker loop
 - [2025-02-02 20:02:00] refactor(models): modernize tightly-coupled configuration loader and environment resolution
+- [2025-02-02 20:03:00] feat(export): enable granular webhook notification dispatcher to streamline workflow automation
