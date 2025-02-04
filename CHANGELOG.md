@@ -861,3 +861,4 @@
 - [2025-02-03 20:01:00] refactor(db): refactor shared helper utility functions
 - [2025-02-04 20:00:00] chore(release): upgrade pre-commit hooks and linter configuration
 - [2025-02-04 20:01:00] feat(search): provide webhook notification dispatcher
+- [2025-02-04 20:02:00] feat(client): add two-factor authentication (2FA)
