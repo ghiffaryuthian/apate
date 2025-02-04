@@ -859,3 +859,4 @@
 - [2025-01-28 20:01:00] docs(contributing): clarify API reference for authentication endpoints
 - [2025-02-03 20:00:00] refactor(auth): reorganize error handling middleware pipeline
 - [2025-02-03 20:01:00] refactor(db): refactor shared helper utility functions
+- [2025-02-04 20:00:00] chore(release): upgrade pre-commit hooks and linter configuration
