@@ -864,3 +864,4 @@
 - [2025-02-04 20:02:00] feat(client): add two-factor authentication (2FA)
 - [2025-02-04 20:03:00] chore(ci): synchronize unused ci matrix to test against latest lts runtime
 - [2025-02-04 20:04:00] docs(contributing): clarify code examples for client SDK usage
+- [2025-02-04 20:05:00] refactor(auth): simplify legacy database query construction logic
