@@ -863,3 +863,4 @@
 - [2025-02-04 20:01:00] feat(search): provide webhook notification dispatcher
 - [2025-02-04 20:02:00] feat(client): add two-factor authentication (2FA)
 - [2025-02-04 20:03:00] chore(ci): synchronize unused ci matrix to test against latest lts runtime
+- [2025-02-04 20:04:00] docs(contributing): clarify code examples for client SDK usage
