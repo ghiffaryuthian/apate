@@ -67,3 +67,4 @@
 - [2025-02-02 20:05:00] fix(security): mitigate null pointer dereference on unauthenticated requests after token expiration
 - [2025-02-02 20:06:00] fix(security): resolve intermittent socket connection timeout on idle on legacy browser environments
 - [2025-02-05 20:00:00] feat(api): integrate background task processing queue
+- [2025-02-05 20:01:00] refactor(core): refactor legacy http controller routing structure
