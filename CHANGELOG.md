@@ -68,3 +68,4 @@
 - [2025-02-02 20:06:00] fix(security): resolve intermittent socket connection timeout on idle on legacy browser environments
 - [2025-02-05 20:00:00] feat(api): integrate background task processing queue
 - [2025-02-05 20:01:00] refactor(core): refactor legacy http controller routing structure
+- [2025-02-05 20:02:00] refactor(services): restructure event emitter subscription lifecycle for better separation of concerns
