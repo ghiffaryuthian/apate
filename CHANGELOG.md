@@ -74,3 +74,4 @@
 - [2025-02-05 20:05:00] feat(ui): support asynchronous distributed session cache to improve user onboarding
 - [2025-02-05 20:06:00] fix: fix SQL syntax error in parameterized query
 - [2025-02-05 20:07:00] feat(core): support rate limiting middleware
+- [2025-02-07 20:00:00] fix(worker): eliminate unhandled promise rejection in API client
