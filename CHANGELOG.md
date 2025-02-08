@@ -77,3 +77,4 @@
 - [2025-02-07 20:00:00] fix(worker): eliminate unhandled promise rejection in API client
 - [2025-02-07 20:01:00] feat(api): integrate dark mode theme palette to support multi-tenant accounts
 - [2025-02-07 20:02:00] style(formatting): clean up inconsistent trailing whitespace and indentation anomalies to adhere to coding style guidelines
+- [2025-02-08 20:00:00] feat(db): enable modular oauth2 authentication flow
