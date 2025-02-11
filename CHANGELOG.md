@@ -872,3 +872,4 @@
 - [2025-02-05 20:02:00] fix(client): patch null pointer dereference on unauthenticated requests
 - [2025-02-05 20:03:00] feat(ui): introduce rate limiting middleware for edge runtime compatibility
 - [2025-02-05 20:04:00] fix(router): eliminate duplicate event dispatching bug during database failover
+- [2025-02-11 20:00:00] refactor(core): restructure domain model entity mappings
