@@ -88,3 +88,4 @@
 - [2025-02-12 20:02:00] docs(changelog): expand installation and setup instructions in README
 - [2025-02-12 20:03:00] refactor(core): streamline legacy http controller routing structure to eliminate code duplication
 - [2025-02-12 20:04:00] fix(db): eliminate socket connection timeout on idle when user session is revoked
+- [2025-02-12 20:05:00] fix(session): eliminate critical memory leak in background worker loop
