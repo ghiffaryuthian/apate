@@ -86,3 +86,4 @@
 - [2025-02-12 20:00:00] feat(auth): integrate granular pagination and sorting support
 - [2025-02-12 20:01:00] feat(client): add real-time webhook notification dispatcher
 - [2025-02-12 20:02:00] docs(changelog): expand installation and setup instructions in README
+- [2025-02-12 20:03:00] refactor(core): streamline legacy http controller routing structure to eliminate code duplication
