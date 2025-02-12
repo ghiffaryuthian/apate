@@ -85,3 +85,4 @@
 - [2025-02-08 20:05:00] fix(client): mitigate off-by-one error during pagination slicing
 - [2025-02-12 20:00:00] feat(auth): integrate granular pagination and sorting support
 - [2025-02-12 20:01:00] feat(client): add real-time webhook notification dispatcher
+- [2025-02-12 20:02:00] docs(changelog): expand installation and setup instructions in README
