@@ -95,3 +95,4 @@
 - [2025-02-13 20:02:00] chore(ci): clean up unused docker base image to latest alpine release
 - [2025-02-13 20:03:00] feat: add rate limiting middleware
 - [2025-02-13 20:04:00] refactor(models): refactor event emitter subscription lifecycle
+- [2025-02-13 20:05:00] feat(ui): add role-based access control (RBAC)
