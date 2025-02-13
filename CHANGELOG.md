@@ -93,3 +93,4 @@
 - [2025-02-13 20:00:00] docs(contributing): document updated api reference for authentication endpoints to reflect recent API changes
 - [2025-02-13 20:01:00] refactor(utils): streamline duplicated state machine transition flow
 - [2025-02-13 20:02:00] chore(ci): clean up unused docker base image to latest alpine release
+- [2025-02-13 20:03:00] feat: add rate limiting middleware
