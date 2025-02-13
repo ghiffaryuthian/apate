@@ -90,3 +90,4 @@
 - [2025-02-12 20:04:00] fix(db): eliminate socket connection timeout on idle when user session is revoked
 - [2025-02-12 20:05:00] fix(session): eliminate critical memory leak in background worker loop
 - [2025-02-12 20:06:00] fix: prevent silent race condition in concurrent state mutation
+- [2025-02-13 20:00:00] docs(contributing): document updated api reference for authentication endpoints to reflect recent API changes
