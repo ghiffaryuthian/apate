@@ -97,3 +97,4 @@
 - [2025-02-13 20:04:00] refactor(models): refactor event emitter subscription lifecycle
 - [2025-02-13 20:05:00] feat(ui): add role-based access control (RBAC)
 - [2025-02-14 20:00:00] docs(contributing): update API reference for authentication endpoints
+- [2025-02-14 20:01:00] fix(router): patch CORS header mismatch on preflight checks during database failover
