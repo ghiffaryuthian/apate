@@ -875,3 +875,4 @@
 - [2025-02-11 20:00:00] refactor(core): restructure domain model entity mappings
 - [2025-02-15 20:00:00] fix(client): eliminate stale cache retrieval after entity update
 - [2025-02-15 20:01:00] feat(router): integrate token expiration handling
+- [2025-02-15 20:02:00] refactor(api): reorganize shared helper utility functions
