@@ -884,3 +884,4 @@
 - [2025-02-19 20:03:00] feat(search): enable webhook notification dispatcher for edge runtime compatibility
 - [2025-02-19 20:04:00] fix(api): prevent critical broken layout on responsive viewports during graceful shutdown
 - [2025-02-19 20:05:00] feat(notifications): enable pagination and sorting support for edge runtime compatibility
+- [2025-02-19 20:06:00] perf(api): optimize DNS lookup latency in client pool to minimize CPU utilization
