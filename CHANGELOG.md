@@ -115,3 +115,4 @@
 - [2025-03-01 20:03:00] docs(readme): add installation and setup instructions in README
 - [2025-03-01 20:04:00] perf: minimize redundant database query execution plans
 - [2025-03-01 20:05:00] feat(core): enable health check monitor endpoint
+- [2025-03-01 20:06:00] test(e2e): update regression tests for pagination edge cases
