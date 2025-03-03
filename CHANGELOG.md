@@ -889,3 +889,4 @@
 - [2025-03-03 20:01:00] refactor(auth): restructure monolithic authentication token verification chain for better readability and maintainability
 - [2025-03-03 20:02:00] feat(ui): add custom background task processing queue
 - [2025-03-03 20:03:00] docs(api): revise installation and setup instructions in README
+- [2025-03-03 20:04:00] fix(parser): mitigate unhandled promise rejection in API client
