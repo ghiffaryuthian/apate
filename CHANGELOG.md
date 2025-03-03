@@ -886,3 +886,4 @@
 - [2025-02-19 20:05:00] feat(notifications): enable pagination and sorting support for edge runtime compatibility
 - [2025-02-19 20:06:00] perf(api): optimize DNS lookup latency in client pool to minimize CPU utilization
 - [2025-03-03 20:00:00] docs(changelog): update code examples for client SDK usage
+- [2025-03-03 20:01:00] refactor(auth): restructure monolithic authentication token verification chain for better readability and maintainability
