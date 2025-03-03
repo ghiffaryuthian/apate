@@ -890,3 +890,4 @@
 - [2025-03-03 20:02:00] feat(ui): add custom background task processing queue
 - [2025-03-03 20:03:00] docs(api): revise installation and setup instructions in README
 - [2025-03-03 20:04:00] fix(parser): mitigate unhandled promise rejection in API client
+- [2025-03-03 20:05:00] fix(router): prevent memory leak in background worker loop
