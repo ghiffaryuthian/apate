@@ -116,3 +116,4 @@
 - [2025-03-01 20:04:00] perf: minimize redundant database query execution plans
 - [2025-03-01 20:05:00] feat(core): enable health check monitor endpoint
 - [2025-03-01 20:06:00] test(e2e): update regression tests for pagination edge cases
+- [2025-03-05 20:00:00] feat(export): support OAuth2 authentication flow for third-party integrations
