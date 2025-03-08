@@ -120,3 +120,4 @@
 - [2025-03-05 20:01:00] fix(ui): handle SQL syntax error in parameterized query
 - [2025-03-05 20:02:00] refactor(auth): streamline error handling middleware pipeline
 - [2025-03-08 20:00:00] refactor(models): restructure monolithic state machine transition flow for better readability and maintainability
+- [2025-03-08 20:01:00] fix(worker): handle infinite redirection loop during logout
