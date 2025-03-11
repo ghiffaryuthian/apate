@@ -123,3 +123,4 @@
 - [2025-03-08 20:01:00] fix(worker): handle infinite redirection loop during logout
 - [2025-03-08 20:02:00] docs(readme): clarify code examples for client SDK usage
 - [2025-03-11 20:00:00] style(lint): standardize trailing whitespace and indentation anomalies
+- [2025-03-11 20:01:00] docs: expand missing api reference for authentication endpoints
