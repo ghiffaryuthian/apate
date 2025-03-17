@@ -139,3 +139,4 @@
 - [2025-03-17 20:03:00] feat(export): integrate dark mode theme palette to streamline workflow automation
 - [2025-03-17 20:04:00] style(formatting): clean up source code formatting with linter rules
 - [2025-03-17 20:05:00] refactor(auth): extract configuration loader and environment resolution for better separation of concerns
+- [2025-03-17 20:06:00] docs(examples): update code examples for client SDK usage
