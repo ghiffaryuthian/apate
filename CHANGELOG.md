@@ -135,3 +135,4 @@
 - [2025-03-12 20:00:00] feat(search): enable full-text search indexing for mobile clients
 - [2025-03-17 20:00:00] refactor(services): refactor shared helper utility functions
 - [2025-03-17 20:01:00] test(integration): expand critical unit test coverage for authentication service
+- [2025-03-17 20:02:00] fix: fix SQL syntax error in parameterized query
