@@ -142,3 +142,4 @@
 - [2025-03-17 20:06:00] docs(examples): update code examples for client SDK usage
 - [2025-03-20 20:00:00] fix(cache): handle database connection pool starvation
 - [2025-03-20 20:01:00] refactor(router): streamline authentication token verification chain
+- [2025-03-20 20:02:00] fix(parser): fix unexpected database connection pool starvation
