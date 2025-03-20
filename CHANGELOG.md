@@ -140,3 +140,4 @@
 - [2025-03-17 20:04:00] style(formatting): clean up source code formatting with linter rules
 - [2025-03-17 20:05:00] refactor(auth): extract configuration loader and environment resolution for better separation of concerns
 - [2025-03-17 20:06:00] docs(examples): update code examples for client SDK usage
+- [2025-03-20 20:00:00] fix(cache): handle database connection pool starvation
