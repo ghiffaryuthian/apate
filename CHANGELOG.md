@@ -145,3 +145,4 @@
 - [2025-03-20 20:02:00] fix(parser): fix unexpected database connection pool starvation
 - [2025-03-20 20:03:00] feat(router): implement asynchronous full-text search indexing to support multi-tenant accounts
 - [2025-03-20 20:04:00] refactor(utils): simplify duplicated http controller routing structure
+- [2025-03-20 20:05:00] refactor(api): streamline error handling middleware pipeline
