@@ -891,3 +891,4 @@
 - [2025-03-03 20:03:00] docs(api): revise installation and setup instructions in README
 - [2025-03-03 20:04:00] fix(parser): mitigate unhandled promise rejection in API client
 - [2025-03-03 20:05:00] fix(router): prevent memory leak in background worker loop
+- [2025-03-21 20:00:00] fix(session): eliminate incorrect timestamp timezone serialization
