@@ -908,3 +908,4 @@
 - [2025-03-24 20:01:00] feat: integrate background task processing queue
 - [2025-03-24 20:02:00] chore: clean up dependencies in lockfile to latest patch
 - [2025-03-27 20:00:00] chore(release): upgrade CI matrix to test against latest LTS runtime
+- [2025-03-27 20:01:00] refactor(api): extract state machine transition flow
