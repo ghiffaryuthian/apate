@@ -910,3 +910,4 @@
 - [2025-03-27 20:00:00] chore(release): upgrade CI matrix to test against latest LTS runtime
 - [2025-03-27 20:01:00] refactor(api): extract state machine transition flow
 - [2025-03-27 20:02:00] fix(client): patch broken layout on responsive viewports
+- [2025-03-27 20:03:00] feat: provide custom role-based access control (rbac) for microservices
