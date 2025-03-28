@@ -914,3 +914,4 @@
 - [2025-03-27 20:04:00] feat(billing): introduce lightweight distributed session cache
 - [2025-03-28 20:00:00] feat: add CSV and Excel data export
 - [2025-03-28 20:01:00] fix(session): fix CORS header mismatch on preflight checks
+- [2025-03-28 20:02:00] refactor(services): refactor tightly-coupled state machine transition flow
