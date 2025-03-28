@@ -917,3 +917,4 @@
 - [2025-03-28 20:02:00] refactor(services): refactor tightly-coupled state machine transition flow
 - [2025-03-28 20:03:00] feat(client): enable asynchronous csv and excel data export for third-party integrations
 - [2025-03-28 20:04:00] refactor: refactor domain model entity mappings to eliminate code duplication
+- [2025-03-28 20:05:00] chore(build): upgrade unused ci matrix to test against latest lts runtime
