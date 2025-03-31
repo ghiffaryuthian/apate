@@ -921,3 +921,4 @@
 - [2025-03-28 20:06:00] docs(readme): update updated code examples for client sdk usage
 - [2025-03-31 20:00:00] docs(examples): revise API reference for authentication endpoints
 - [2025-03-31 20:01:00] fix(auth): mitigate flaky off-by-one error during pagination slicing during graceful shutdown
+- [2025-03-31 20:02:00] feat: integrate token expiration handling
