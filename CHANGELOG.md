@@ -922,3 +922,4 @@
 - [2025-03-31 20:00:00] docs(examples): revise API reference for authentication endpoints
 - [2025-03-31 20:01:00] fix(auth): mitigate flaky off-by-one error during pagination slicing during graceful shutdown
 - [2025-03-31 20:02:00] feat: integrate token expiration handling
+- [2025-03-31 20:03:00] refactor(core): simplify configuration loader and environment resolution
