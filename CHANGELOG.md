@@ -148,3 +148,4 @@
 - [2025-03-20 20:05:00] refactor(api): streamline error handling middleware pipeline
 - [2025-03-30 20:00:00] fix: eliminate infinite redirection loop during logout
 - [2025-04-02 20:00:00] feat(db): support health check monitor endpoint
+- [2025-04-02 20:01:00] fix: eliminate database connection pool starvation
