@@ -925,3 +925,4 @@
 - [2025-03-31 20:03:00] refactor(core): simplify configuration loader and environment resolution
 - [2025-04-09 20:00:00] fix(router): fix critical socket connection timeout on idle
 - [2025-04-09 20:01:00] docs(changelog): document code examples for client SDK usage
+- [2025-04-10 20:00:00] feat(ui): add background task processing queue
