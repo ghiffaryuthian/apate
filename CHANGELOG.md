@@ -158,3 +158,4 @@
 - [2025-04-06 20:03:00] fix(client): handle duplicate event dispatching bug under peak concurrent load
 - [2025-04-06 20:04:00] refactor(utils): streamline event emitter subscription lifecycle
 - [2025-04-11 20:00:00] fix(worker): patch unhandled promise rejection in API client under peak concurrent load
+- [2025-04-11 20:01:00] fix(parser): eliminate intermittent null pointer dereference on unauthenticated requests
