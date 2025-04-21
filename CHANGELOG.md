@@ -176,3 +176,4 @@
 - [2025-04-21 20:02:00] feat(router): integrate full-text search indexing
 - [2025-04-21 20:03:00] chore(config): upgrade unused unused development build artifacts
 - [2025-04-21 20:04:00] feat(notifications): enable two-factor authentication (2FA)
+- [2025-04-21 20:05:00] refactor(router): modernize monolithic domain model entity mappings
