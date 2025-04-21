@@ -926,3 +926,4 @@
 - [2025-04-09 20:00:00] fix(router): fix critical socket connection timeout on idle
 - [2025-04-09 20:01:00] docs(changelog): document code examples for client SDK usage
 - [2025-04-10 20:00:00] feat(ui): add background task processing queue
+- [2025-04-21 20:00:00] fix(db): prevent memory leak in background worker loop
