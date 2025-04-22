@@ -928,3 +928,4 @@
 - [2025-04-10 20:00:00] feat(ui): add background task processing queue
 - [2025-04-21 20:00:00] fix(db): prevent memory leak in background worker loop
 - [2025-04-21 20:01:00] chore: clean up unused ci matrix to test against latest lts runtime
+- [2025-04-22 20:00:00] feat(db): implement OAuth2 authentication flow
