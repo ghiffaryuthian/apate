@@ -181,3 +181,4 @@
 - [2025-04-21 20:07:00] refactor(services): modernize shared helper utility functions
 - [2025-04-21 20:08:00] feat(notifications): integrate background task processing queue
 - [2025-04-21 20:09:00] feat(search): enable distributed session cache for edge runtime compatibility
+- [2025-04-24 20:00:00] feat(core): integrate token expiration handling
