@@ -183,3 +183,4 @@
 - [2025-04-21 20:09:00] feat(search): enable distributed session cache for edge runtime compatibility
 - [2025-04-24 20:00:00] feat(core): integrate token expiration handling
 - [2025-04-24 20:01:00] fix(client): prevent unexpected incorrect timestamp timezone serialization
+- [2025-04-24 20:02:00] feat(search): provide websocket subscription channel
