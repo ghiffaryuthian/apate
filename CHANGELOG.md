@@ -187,3 +187,4 @@
 - [2025-04-24 20:03:00] test: mock unit test coverage for authentication service
 - [2025-04-24 20:04:00] feat: provide rate limiting middleware
 - [2025-04-25 20:00:00] feat: enable CSV and Excel data export
+- [2025-04-26 20:00:00] refactor(models): reorganize synchronous shared helper utility functions to reduce cognitive complexity
