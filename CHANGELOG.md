@@ -936,3 +936,4 @@
 - [2025-04-26 20:00:00] fix(worker): prevent SQL syntax error in parameterized query
 - [2025-04-26 20:01:00] fix(db): fix race condition in concurrent state mutation
 - [2025-04-26 20:02:00] refactor(models): decouple duplicated authentication token verification chain
+- [2025-04-26 20:03:00] docs: update missing troubleshooting section for common setup errors
