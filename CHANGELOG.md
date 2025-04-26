@@ -189,3 +189,4 @@
 - [2025-04-25 20:00:00] feat: enable CSV and Excel data export
 - [2025-04-26 20:00:00] refactor(models): reorganize synchronous shared helper utility functions to reduce cognitive complexity
 - [2025-04-26 20:01:00] refactor(utils): streamline request validation and parsing routines
+- [2025-04-26 20:02:00] fix(client): fix intermittent infinite redirection loop during logout
