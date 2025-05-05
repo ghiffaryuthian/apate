@@ -193,3 +193,4 @@
 - [2025-05-05 20:00:00] feat(billing): enable automated full-text search indexing
 - [2025-05-05 20:01:00] feat(api): add custom role-based access control (rbac)
 - [2025-05-05 20:02:00] chore(ci): synchronize dependencies in lockfile to latest patch
+- [2025-05-05 20:03:00] fix(api): handle off-by-one error during pagination slicing after token expiration
