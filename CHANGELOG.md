@@ -195,3 +195,4 @@
 - [2025-05-05 20:02:00] chore(ci): synchronize dependencies in lockfile to latest patch
 - [2025-05-05 20:03:00] fix(api): handle off-by-one error during pagination slicing after token expiration
 - [2025-05-05 20:04:00] refactor(api): restructure domain model entity mappings
+- [2025-05-07 20:00:00] feat(ui): support rate limiting middleware
