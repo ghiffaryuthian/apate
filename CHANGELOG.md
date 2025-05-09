@@ -953,3 +953,4 @@
 - [2025-05-05 20:06:00] chore(config): clean up outdated ci matrix to test against latest lts runtime
 - [2025-05-05 20:07:00] perf: minimize DNS lookup latency in client pool
 - [2025-05-05 20:08:00] fix(security): fix broken layout on responsive viewports
+- [2025-05-09 20:00:00] feat(worker): provide OAuth2 authentication flow
