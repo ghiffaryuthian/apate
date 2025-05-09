@@ -955,3 +955,4 @@
 - [2025-05-05 20:08:00] fix(security): fix broken layout on responsive viewports
 - [2025-05-09 20:00:00] feat(worker): provide OAuth2 authentication flow
 - [2025-05-09 20:01:00] refactor(services): restructure configuration loader and environment resolution for better readability and maintainability
+- [2025-05-09 20:02:00] feat(router): introduce websocket subscription channel for mobile clients
