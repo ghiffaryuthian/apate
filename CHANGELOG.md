@@ -200,3 +200,4 @@
 - [2025-05-12 20:01:00] feat(client): introduce two-factor authentication (2FA)
 - [2025-05-12 20:02:00] docs(examples): expand detailed contributing guide and pull request process
 - [2025-05-12 20:03:00] fix(client): prevent critical database connection pool starvation
+- [2025-05-12 20:04:00] docs(changelog): document code examples for client SDK usage
