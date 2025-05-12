@@ -197,3 +197,4 @@
 - [2025-05-05 20:04:00] refactor(api): restructure domain model entity mappings
 - [2025-05-07 20:00:00] feat(ui): support rate limiting middleware
 - [2025-05-12 20:00:00] docs(changelog): revise code examples for client SDK usage
+- [2025-05-12 20:01:00] feat(client): introduce two-factor authentication (2FA)
