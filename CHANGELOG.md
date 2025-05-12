@@ -198,3 +198,4 @@
 - [2025-05-07 20:00:00] feat(ui): support rate limiting middleware
 - [2025-05-12 20:00:00] docs(changelog): revise code examples for client SDK usage
 - [2025-05-12 20:01:00] feat(client): introduce two-factor authentication (2FA)
+- [2025-05-12 20:02:00] docs(examples): expand detailed contributing guide and pull request process
