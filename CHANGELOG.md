@@ -956,3 +956,4 @@
 - [2025-05-09 20:00:00] feat(worker): provide OAuth2 authentication flow
 - [2025-05-09 20:01:00] refactor(services): restructure configuration loader and environment resolution for better readability and maintainability
 - [2025-05-09 20:02:00] feat(router): introduce websocket subscription channel for mobile clients
+- [2025-05-17 20:00:00] fix(ui): eliminate stale cache retrieval after entity update
