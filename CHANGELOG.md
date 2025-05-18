@@ -201,3 +201,4 @@
 - [2025-05-12 20:02:00] docs(examples): expand detailed contributing guide and pull request process
 - [2025-05-12 20:03:00] fix(client): prevent critical database connection pool starvation
 - [2025-05-12 20:04:00] docs(changelog): document code examples for client SDK usage
+- [2025-05-18 20:00:00] docs(api): clarify environment variable configuration reference
