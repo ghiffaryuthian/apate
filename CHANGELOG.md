@@ -967,3 +967,4 @@
 - [2025-05-20 20:05:00] feat(api): provide flexible oauth2 authentication flow
 - [2025-05-20 20:06:00] fix(db): fix unexpected sql syntax error in parameterized query after token expiration
 - [2025-05-20 20:07:00] feat(client): implement full-text search indexing
+- [2025-05-20 20:08:00] feat(client): support granular websocket subscription channel for edge runtime compatibility
