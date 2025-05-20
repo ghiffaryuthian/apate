@@ -964,3 +964,4 @@
 - [2025-05-20 20:02:00] fix(security): patch SQL syntax error in parameterized query
 - [2025-05-20 20:03:00] refactor(core): reorganize legacy event emitter subscription lifecycle
 - [2025-05-20 20:04:00] feat(db): enable dynamic file upload and validation pipeline
+- [2025-05-20 20:05:00] feat(api): provide flexible oauth2 authentication flow
