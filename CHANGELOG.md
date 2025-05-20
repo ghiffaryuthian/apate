@@ -214,3 +214,4 @@
 - [2025-05-20 20:02:00] test(utils): strengthen regression tests for pagination edge cases
 - [2025-05-20 20:03:00] docs(api): revise updated code examples for client sdk usage to reflect recent API changes
 - [2025-05-20 20:04:00] feat: integrate custom file upload and validation pipeline
+- [2025-05-20 20:05:00] feat: add pagination and sorting support
