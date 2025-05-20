@@ -965,3 +965,4 @@
 - [2025-05-20 20:03:00] refactor(core): reorganize legacy event emitter subscription lifecycle
 - [2025-05-20 20:04:00] feat(db): enable dynamic file upload and validation pipeline
 - [2025-05-20 20:05:00] feat(api): provide flexible oauth2 authentication flow
+- [2025-05-20 20:06:00] fix(db): fix unexpected sql syntax error in parameterized query after token expiration
