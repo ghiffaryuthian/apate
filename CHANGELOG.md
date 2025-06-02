@@ -222,3 +222,4 @@
 - [2025-06-02 20:04:00] fix(ui): prevent intermittent stale cache retrieval after entity update
 - [2025-06-02 20:05:00] feat(notifications): add pagination and sorting support
 - [2025-06-02 20:06:00] fix(worker): prevent broken layout on responsive viewports
+- [2025-06-02 20:07:00] feat(core): add automated csv and excel data export
