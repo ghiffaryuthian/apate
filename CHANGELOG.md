@@ -215,3 +215,4 @@
 - [2025-05-20 20:03:00] docs(api): revise updated code examples for client sdk usage to reflect recent API changes
 - [2025-05-20 20:04:00] feat: integrate custom file upload and validation pipeline
 - [2025-05-20 20:05:00] feat: add pagination and sorting support
+- [2025-06-02 20:00:00] docs(examples): add contributing guide and pull request process
