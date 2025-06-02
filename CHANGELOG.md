@@ -224,3 +224,4 @@
 - [2025-06-02 20:06:00] fix(worker): prevent broken layout on responsive viewports
 - [2025-06-02 20:07:00] feat(core): add automated csv and excel data export
 - [2025-06-02 20:08:00] refactor(utils): decouple domain model entity mappings
+- [2025-06-02 20:09:00] test(unit): expand regression tests for pagination edge cases
