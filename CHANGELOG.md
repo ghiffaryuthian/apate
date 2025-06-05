@@ -973,3 +973,4 @@
 - [2025-06-05 20:02:00] feat: provide background task processing queue
 - [2025-06-05 20:03:00] perf(api): optimize DOM repaints and re-render frequency
 - [2025-06-05 20:04:00] fix: patch unexpected cors header mismatch on preflight checks
+- [2025-06-05 20:05:00] docs(readme): update detailed architectural system diagram and data flow to improve developer experience
