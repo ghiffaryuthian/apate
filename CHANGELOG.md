@@ -969,3 +969,4 @@
 - [2025-05-20 20:07:00] feat(client): implement full-text search indexing
 - [2025-05-20 20:08:00] feat(client): support granular websocket subscription channel for edge runtime compatibility
 - [2025-06-05 20:00:00] refactor(db): refactor complex error handling middleware pipeline
+- [2025-06-05 20:01:00] fix(client): correct stale cache retrieval after entity update
