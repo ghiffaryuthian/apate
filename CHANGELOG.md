@@ -228,3 +228,4 @@
 - [2025-06-03 20:00:00] chore(ci): prune Docker base image to latest Alpine release
 - [2025-06-07 20:00:00] refactor(models): modernize configuration loader and environment resolution
 - [2025-06-07 20:01:00] feat(cache): enable custom csv and excel data export
+- [2025-06-07 20:02:00] fix(parser): resolve unhandled promise rejection in API client
