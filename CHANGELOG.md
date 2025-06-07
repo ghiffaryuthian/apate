@@ -979,3 +979,4 @@
 - [2025-06-05 20:08:00] refactor(api): restructure database query construction logic
 - [2025-06-05 20:09:00] style(imports): align source code formatting with linter rules
 - [2025-06-07 20:00:00] refactor(core): reorganize state machine transition flow
+- [2025-06-07 20:01:00] docs: clarify updated installation and setup instructions in readme to reflect recent API changes
