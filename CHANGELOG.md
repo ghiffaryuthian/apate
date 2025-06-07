@@ -978,3 +978,4 @@
 - [2025-06-05 20:07:00] refactor: modernize error handling middleware pipeline to eliminate code duplication
 - [2025-06-05 20:08:00] refactor(api): restructure database query construction logic
 - [2025-06-05 20:09:00] style(imports): align source code formatting with linter rules
+- [2025-06-07 20:00:00] refactor(core): reorganize state machine transition flow
