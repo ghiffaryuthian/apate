@@ -982,3 +982,4 @@
 - [2025-06-07 20:01:00] docs: clarify updated installation and setup instructions in readme to reflect recent API changes
 - [2025-06-07 20:02:00] fix: correct database connection pool starvation
 - [2025-06-07 20:03:00] feat(billing): integrate webhook notification dispatcher
+- [2025-06-07 20:04:00] refactor(auth): reorganize redundant database query construction logic for better readability and maintainability
