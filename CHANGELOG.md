@@ -981,3 +981,4 @@
 - [2025-06-07 20:00:00] refactor(core): reorganize state machine transition flow
 - [2025-06-07 20:01:00] docs: clarify updated installation and setup instructions in readme to reflect recent API changes
 - [2025-06-07 20:02:00] fix: correct database connection pool starvation
+- [2025-06-07 20:03:00] feat(billing): integrate webhook notification dispatcher
