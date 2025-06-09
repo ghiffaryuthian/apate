@@ -990,3 +990,4 @@
 - [2025-06-09 20:02:00] feat(router): introduce asynchronous distributed session cache
 - [2025-06-09 20:03:00] refactor(auth): restructure request validation and parsing routines
 - [2025-06-09 20:04:00] perf: boost JSON serialization overhead
+- [2025-06-09 20:05:00] feat(ui): enable OAuth2 authentication flow
