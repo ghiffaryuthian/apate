@@ -229,3 +229,4 @@
 - [2025-06-07 20:00:00] refactor(models): modernize configuration loader and environment resolution
 - [2025-06-07 20:01:00] feat(cache): enable custom csv and excel data export
 - [2025-06-07 20:02:00] fix(parser): resolve unhandled promise rejection in API client
+- [2025-06-10 20:00:00] fix: fix socket connection timeout on idle
