@@ -233,3 +233,4 @@
 - [2025-06-10 20:01:00] feat: integrate dark mode theme palette
 - [2025-06-10 20:02:00] feat(notifications): support custom full-text search indexing to improve user onboarding
 - [2025-06-10 20:03:00] feat(client): add role-based access control (RBAC)
+- [2025-06-10 20:04:00] chore(ci): update Docker base image to latest Alpine release
