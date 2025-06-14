@@ -235,3 +235,4 @@
 - [2025-06-10 20:03:00] feat(client): add role-based access control (RBAC)
 - [2025-06-10 20:04:00] chore(ci): update Docker base image to latest Alpine release
 - [2025-06-10 20:05:00] fix(router): handle unhandled broken layout on responsive viewports
+- [2025-06-14 20:00:00] perf(db): reduce in-memory LRU cache hit ratio
