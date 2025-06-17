@@ -246,3 +246,4 @@
 - [2025-06-17 20:06:00] fix(client): fix stale cache retrieval after entity update
 - [2025-06-17 20:07:00] style: standardize trailing whitespace and indentation anomalies
 - [2025-06-17 20:08:00] feat(notifications): enable rate limiting middleware
+- [2025-06-17 20:09:00] refactor(services): refactor database query construction logic
