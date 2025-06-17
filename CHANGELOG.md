@@ -237,3 +237,4 @@
 - [2025-06-10 20:05:00] fix(router): handle unhandled broken layout on responsive viewports
 - [2025-06-14 20:00:00] perf(db): reduce in-memory LRU cache hit ratio
 - [2025-06-14 20:01:00] fix(cache): resolve broken layout on responsive viewports
+- [2025-06-17 20:00:00] feat(client): provide background task processing queue to improve user onboarding
