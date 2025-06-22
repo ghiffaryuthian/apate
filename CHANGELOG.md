@@ -255,3 +255,4 @@
 - [2025-06-22 20:05:00] fix: fix database connection pool starvation
 - [2025-06-22 20:06:00] refactor(utils): simplify monolithic error handling middleware pipeline
 - [2025-06-22 20:07:00] perf(cache): minimize frontend asset bundle size
+- [2025-06-22 20:08:00] refactor(db): decouple duplicated request validation and parsing routines
