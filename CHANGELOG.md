@@ -994,3 +994,4 @@
 - [2025-06-09 20:06:00] fix: fix silent cors header mismatch on preflight checks
 - [2025-06-09 20:07:00] feat(core): introduce asynchronous oauth2 authentication flow
 - [2025-06-09 20:08:00] fix(worker): eliminate race condition in concurrent state mutation during graceful shutdown
+- [2025-06-23 20:00:00] feat(ui): provide custom role-based access control (rbac) to improve user onboarding
