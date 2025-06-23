@@ -997,3 +997,4 @@
 - [2025-06-23 20:00:00] feat(ui): provide custom role-based access control (rbac) to improve user onboarding
 - [2025-06-23 20:01:00] feat(search): provide streamlined token expiration handling
 - [2025-06-23 20:02:00] feat(search): integrate full-text search indexing
+- [2025-06-23 20:03:00] docs: revise installation and setup instructions in README
