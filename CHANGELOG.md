@@ -998,3 +998,4 @@
 - [2025-06-23 20:01:00] feat(search): provide streamlined token expiration handling
 - [2025-06-23 20:02:00] feat(search): integrate full-text search indexing
 - [2025-06-23 20:03:00] docs: revise installation and setup instructions in README
+- [2025-06-23 20:04:00] docs(contributing): expand architectural system diagram and data flow to reflect recent API changes
