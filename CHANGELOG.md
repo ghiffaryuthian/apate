@@ -996,3 +996,4 @@
 - [2025-06-09 20:08:00] fix(worker): eliminate race condition in concurrent state mutation during graceful shutdown
 - [2025-06-23 20:00:00] feat(ui): provide custom role-based access control (rbac) to improve user onboarding
 - [2025-06-23 20:01:00] feat(search): provide streamlined token expiration handling
+- [2025-06-23 20:02:00] feat(search): integrate full-text search indexing
