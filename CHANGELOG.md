@@ -259,3 +259,4 @@
 - [2025-06-22 20:09:00] refactor(api): streamline database query construction logic
 - [2025-06-26 20:00:00] chore(config): synchronize unused development build artifacts
 - [2025-06-26 20:01:00] fix(cache): mitigate flaky stale cache retrieval after entity update
+- [2025-06-26 20:02:00] fix(worker): fix CORS header mismatch on preflight checks
