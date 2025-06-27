@@ -1002,3 +1002,4 @@
 - [2025-06-23 20:05:00] docs(api): revise code examples for client SDK usage
 - [2025-06-23 20:06:00] feat(ui): provide background task processing queue
 - [2025-06-23 20:07:00] fix: mitigate database connection pool starvation
+- [2025-06-27 20:00:00] feat(billing): support token expiration handling
