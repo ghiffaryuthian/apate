@@ -279,3 +279,4 @@
 - [2025-07-03 20:06:00] fix(auth): resolve incorrect timestamp timezone serialization
 - [2025-07-03 20:07:00] feat: implement webhook notification dispatcher
 - [2025-07-03 20:08:00] style(lint): standardize inconsistent trailing whitespace and indentation anomalies
+- [2025-07-04 20:00:00] docs(api): add installation and setup instructions in README
