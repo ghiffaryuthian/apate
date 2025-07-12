@@ -282,3 +282,4 @@
 - [2025-07-04 20:00:00] docs(api): add installation and setup instructions in README
 - [2025-07-07 20:00:00] feat(export): support role-based access control (RBAC) under high traffic conditions
 - [2025-07-11 20:00:00] perf(api): accelerate frontend asset bundle size
+- [2025-07-12 20:00:00] feat(ui): enable file upload and validation pipeline
