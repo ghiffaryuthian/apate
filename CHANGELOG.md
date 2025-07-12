@@ -1016,3 +1016,4 @@
 - [2025-07-11 20:01:00] chore: update unused unused development build artifacts to streamline developer build times
 - [2025-07-11 20:02:00] feat(worker): provide file upload and validation pipeline
 - [2025-07-11 20:03:00] fix: prevent silent sql syntax error in parameterized query
+- [2025-07-12 20:00:00] feat(export): enable CSV and Excel data export to support multi-tenant accounts
