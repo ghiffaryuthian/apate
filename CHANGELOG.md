@@ -1020,3 +1020,4 @@
 - [2025-07-12 20:01:00] fix(router): patch infinite redirection loop during logout
 - [2025-07-12 20:02:00] fix(worker): handle incorrect timestamp timezone serialization
 - [2025-07-12 20:03:00] feat(worker): provide health check monitor endpoint
+- [2025-07-12 20:04:00] perf(query): boost JSON serialization overhead
