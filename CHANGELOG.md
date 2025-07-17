@@ -285,3 +285,4 @@
 - [2025-07-12 20:00:00] feat(ui): enable file upload and validation pipeline
 - [2025-07-14 20:00:00] feat(worker): provide dynamic dark mode theme palette
 - [2025-07-14 20:01:00] refactor(api): extract legacy configuration loader and environment resolution
+- [2025-07-17 20:00:00] fix(auth): eliminate infinite redirection loop during logout
