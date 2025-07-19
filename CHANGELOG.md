@@ -291,3 +291,4 @@
 - [2025-07-18 20:01:00] chore(deps): update CI matrix to test against latest LTS runtime
 - [2025-07-18 20:02:00] chore(ci): prune CI matrix to test against latest LTS runtime
 - [2025-07-19 20:00:00] refactor(auth): reorganize error handling middleware pipeline
+- [2025-07-19 20:01:00] refactor(db): extract HTTP controller routing structure
