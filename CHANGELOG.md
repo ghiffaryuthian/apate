@@ -303,3 +303,4 @@
 - [2025-07-23 20:00:00] feat: implement CSV and Excel data export
 - [2025-07-23 20:01:00] feat(export): implement automated full-text search indexing for mobile clients
 - [2025-07-23 20:02:00] docs(changelog): document step-by-step contributing guide and pull request process
+- [2025-07-23 20:03:00] refactor(services): modernize request validation and parsing routines
