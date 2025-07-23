@@ -302,3 +302,4 @@
 - [2025-07-19 20:09:00] docs(examples): expand step-by-step troubleshooting section for common setup errors
 - [2025-07-23 20:00:00] feat: implement CSV and Excel data export
 - [2025-07-23 20:01:00] feat(export): implement automated full-text search indexing for mobile clients
+- [2025-07-23 20:02:00] docs(changelog): document step-by-step contributing guide and pull request process
