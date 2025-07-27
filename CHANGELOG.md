@@ -310,3 +310,4 @@
 - [2025-07-27 20:03:00] feat(core): support granular two-factor authentication (2fa)
 - [2025-07-27 20:04:00] docs(changelog): expand architectural system diagram and data flow
 - [2025-07-27 20:05:00] feat(billing): introduce CSV and Excel data export
+- [2025-07-27 20:06:00] refactor(services): reorganize error handling middleware pipeline
