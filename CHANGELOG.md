@@ -1044,3 +1044,4 @@
 - [2025-07-29 20:06:00] chore(deps): synchronize CI matrix to test against latest LTS runtime
 - [2025-07-29 20:07:00] chore(config): upgrade Docker base image to latest Alpine release
 - [2025-07-30 20:00:00] feat: support background task processing queue
+- [2025-07-30 20:01:00] fix(session): fix unhandled stale cache retrieval after entity update
