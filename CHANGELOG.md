@@ -316,3 +316,4 @@
 - [2025-07-30 20:00:00] feat(auth): enable rate limiting middleware
 - [2025-07-30 20:01:00] feat: enable distributed session cache
 - [2025-07-30 20:02:00] refactor(api): extract authentication token verification chain for better readability and maintainability
+- [2025-07-30 20:03:00] fix(db): fix unhandled promise rejection in API client
