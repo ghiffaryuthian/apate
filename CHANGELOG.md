@@ -330,3 +330,4 @@
 - [2025-08-02 20:05:00] feat(core): add granular csv and excel data export
 - [2025-08-02 20:06:00] fix(db): eliminate stale cache retrieval after entity update
 - [2025-08-02 20:07:00] docs(readme): revise step-by-step environment variable configuration reference
+- [2025-08-02 20:08:00] refactor(auth): reorganize domain model entity mappings
