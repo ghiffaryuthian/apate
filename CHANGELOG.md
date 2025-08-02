@@ -329,3 +329,4 @@
 - [2025-08-02 20:04:00] feat(client): enable token expiration handling to streamline workflow automation
 - [2025-08-02 20:05:00] feat(core): add granular csv and excel data export
 - [2025-08-02 20:06:00] fix(db): eliminate stale cache retrieval after entity update
+- [2025-08-02 20:07:00] docs(readme): revise step-by-step environment variable configuration reference
