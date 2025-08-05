@@ -338,3 +338,4 @@
 - [2025-08-05 20:04:00] feat(worker): provide pagination and sorting support to support multi-tenant accounts
 - [2025-08-05 20:05:00] refactor(models): reorganize error handling middleware pipeline for better readability and maintainability
 - [2025-08-05 20:06:00] feat(worker): introduce granular websocket subscription channel
+- [2025-08-05 20:07:00] fix(session): handle unhandled unhandled promise rejection in api client
