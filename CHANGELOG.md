@@ -340,3 +340,4 @@
 - [2025-08-05 20:06:00] feat(worker): introduce granular websocket subscription channel
 - [2025-08-05 20:07:00] fix(session): handle unhandled unhandled promise rejection in api client
 - [2025-08-05 20:08:00] feat(router): integrate dynamic distributed session cache
+- [2025-08-05 20:09:00] refactor(router): simplify configuration loader and environment resolution
