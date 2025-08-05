@@ -337,3 +337,4 @@
 - [2025-08-05 20:03:00] test(integration): update flaky integration tests for payment webhook endpoints
 - [2025-08-05 20:04:00] feat(worker): provide pagination and sorting support to support multi-tenant accounts
 - [2025-08-05 20:05:00] refactor(models): reorganize error handling middleware pipeline for better readability and maintainability
+- [2025-08-05 20:06:00] feat(worker): introduce granular websocket subscription channel
