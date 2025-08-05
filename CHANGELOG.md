@@ -331,3 +331,4 @@
 - [2025-08-02 20:06:00] fix(db): eliminate stale cache retrieval after entity update
 - [2025-08-02 20:07:00] docs(readme): revise step-by-step environment variable configuration reference
 - [2025-08-02 20:08:00] refactor(auth): reorganize domain model entity mappings
+- [2025-08-05 20:00:00] refactor(api): streamline configuration loader and environment resolution for better readability and maintainability
