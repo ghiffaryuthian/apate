@@ -350,3 +350,4 @@
 - [2025-08-09 20:06:00] feat(core): support pagination and sorting support for mobile clients
 - [2025-08-09 20:07:00] style(lint): format inconsistent source code formatting with linter rules
 - [2025-08-09 20:08:00] fix(api): fix socket connection timeout on idle
+- [2025-08-09 20:09:00] style: format trailing whitespace and indentation anomalies
