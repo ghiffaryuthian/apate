@@ -346,3 +346,4 @@
 - [2025-08-09 20:02:00] fix(ui): handle stale cache retrieval after entity update
 - [2025-08-09 20:03:00] fix: fix off-by-one error during pagination slicing
 - [2025-08-09 20:04:00] test: mock critical mock server fixtures for external third-party apis
+- [2025-08-09 20:05:00] feat(api): enable websocket subscription channel
