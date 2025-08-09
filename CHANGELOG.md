@@ -344,3 +344,4 @@
 - [2025-08-09 20:00:00] refactor(utils): refactor synchronous authentication token verification chain for better readability and maintainability
 - [2025-08-09 20:01:00] test(e2e): expand critical integration tests for payment webhook endpoints
 - [2025-08-09 20:02:00] fix(ui): handle stale cache retrieval after entity update
+- [2025-08-09 20:03:00] fix: fix off-by-one error during pagination slicing
