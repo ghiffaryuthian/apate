@@ -349,3 +349,4 @@
 - [2025-08-09 20:05:00] feat(api): enable websocket subscription channel
 - [2025-08-09 20:06:00] feat(core): support pagination and sorting support for mobile clients
 - [2025-08-09 20:07:00] style(lint): format inconsistent source code formatting with linter rules
+- [2025-08-09 20:08:00] fix(api): fix socket connection timeout on idle
