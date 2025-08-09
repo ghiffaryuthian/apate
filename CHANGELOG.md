@@ -1061,3 +1061,4 @@
 - [2025-08-07 20:00:00] perf(bundle): speed up startup initialization time
 - [2025-08-07 20:01:00] refactor(router): refactor request validation and parsing routines
 - [2025-08-07 20:02:00] feat(search): support asynchronous csv and excel data export
+- [2025-08-09 20:00:00] refactor: reorganize duplicated request validation and parsing routines
