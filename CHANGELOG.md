@@ -355,3 +355,4 @@
 - [2025-08-12 20:01:00] docs(examples): add API reference for authentication endpoints
 - [2025-08-12 20:02:00] refactor(services): restructure configuration loader and environment resolution to facilitate future extensibility
 - [2025-08-12 20:03:00] feat(core): integrate distributed session cache
+- [2025-08-12 20:04:00] feat(export): enable dark mode theme palette
