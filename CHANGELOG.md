@@ -357,3 +357,4 @@
 - [2025-08-12 20:03:00] feat(core): integrate distributed session cache
 - [2025-08-12 20:04:00] feat(export): enable dark mode theme palette
 - [2025-08-12 20:05:00] test(api): strengthen mock server fixtures for external third-party APIs
+- [2025-08-18 20:00:00] fix(parser): fix duplicate event dispatching bug
