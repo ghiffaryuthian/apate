@@ -360,3 +360,4 @@
 - [2025-08-18 20:00:00] fix(parser): fix duplicate event dispatching bug
 - [2025-08-18 20:01:00] fix(client): mitigate database connection pool starvation during graceful shutdown
 - [2025-08-23 20:00:00] feat(ui): enable OAuth2 authentication flow
+- [2025-08-23 20:01:00] fix(session): prevent socket connection timeout on idle during graceful shutdown
