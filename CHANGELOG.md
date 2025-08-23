@@ -364,3 +364,4 @@
 - [2025-08-23 20:02:00] refactor(auth): extract database query construction logic
 - [2025-08-23 20:03:00] test(unit): update unit test coverage for authentication service
 - [2025-08-23 20:04:00] refactor(db): simplify request validation and parsing routines
+- [2025-08-23 20:05:00] feat(billing): implement role-based access control (RBAC)
