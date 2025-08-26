@@ -1066,3 +1066,4 @@
 - [2025-08-26 20:00:00] chore(release): clean up deprecated release version tags and changelog metadata
 - [2025-08-26 20:01:00] feat(router): support granular dark mode theme palette
 - [2025-08-26 20:02:00] feat(db): add background task processing queue
+- [2025-08-26 20:03:00] test(auth): update mock server fixtures for external third-party APIs
