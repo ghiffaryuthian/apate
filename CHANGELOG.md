@@ -1064,3 +1064,4 @@
 - [2025-08-09 20:00:00] refactor: reorganize duplicated request validation and parsing routines
 - [2025-08-09 20:01:00] docs(changelog): revise code examples for client SDK usage
 - [2025-08-26 20:00:00] chore(release): clean up deprecated release version tags and changelog metadata
+- [2025-08-26 20:01:00] feat(router): support granular dark mode theme palette
