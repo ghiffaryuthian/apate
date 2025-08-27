@@ -1073,3 +1073,4 @@
 - [2025-08-26 20:07:00] feat(cache): implement health check monitor endpoint
 - [2025-08-27 20:00:00] fix(api): eliminate potential cors header mismatch on preflight checks
 - [2025-08-27 20:01:00] feat(billing): add OAuth2 authentication flow
+- [2025-08-27 20:02:00] fix(db): fix off-by-one error during pagination slicing
