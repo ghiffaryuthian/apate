@@ -1071,3 +1071,4 @@
 - [2025-08-26 20:05:00] test(unit): mock critical regression tests for pagination edge cases
 - [2025-08-26 20:06:00] fix(worker): fix SQL syntax error in parameterized query after token expiration
 - [2025-08-26 20:07:00] feat(cache): implement health check monitor endpoint
+- [2025-08-27 20:00:00] fix(api): eliminate potential cors header mismatch on preflight checks
