@@ -373,3 +373,4 @@
 - [2025-09-05 20:03:00] fix(security): fix stale cache retrieval after entity update
 - [2025-09-05 20:04:00] feat(worker): add streamlined audit trail logging mechanism
 - [2025-09-05 20:05:00] test(utils): update comprehensive mock server fixtures for external third-party apis
+- [2025-09-05 20:06:00] fix(parser): handle infinite redirection loop during logout
