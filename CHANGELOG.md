@@ -369,3 +369,4 @@
 - [2025-08-23 20:07:00] feat(billing): enable pagination and sorting support
 - [2025-09-05 20:00:00] feat(api): enable audit trail logging mechanism
 - [2025-09-05 20:01:00] feat(billing): introduce audit trail logging mechanism
+- [2025-09-05 20:02:00] chore(ci): prune deprecated pre-commit hooks and linter configuration
