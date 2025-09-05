@@ -1089,3 +1089,4 @@
 - [2025-09-05 20:02:00] fix(worker): eliminate database connection pool starvation
 - [2025-09-05 20:03:00] fix(worker): eliminate memory leak in background worker loop
 - [2025-09-05 20:04:00] fix(ui): mitigate duplicate event dispatching bug
+- [2025-09-05 20:05:00] fix(security): handle silent socket connection timeout on idle when payload exceeds default limit
