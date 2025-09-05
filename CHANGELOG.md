@@ -1088,3 +1088,4 @@
 - [2025-09-05 20:01:00] feat(billing): introduce pagination and sorting support
 - [2025-09-05 20:02:00] fix(worker): eliminate database connection pool starvation
 - [2025-09-05 20:03:00] fix(worker): eliminate memory leak in background worker loop
+- [2025-09-05 20:04:00] fix(ui): mitigate duplicate event dispatching bug
