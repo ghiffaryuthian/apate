@@ -1086,3 +1086,4 @@
 - [2025-09-04 20:08:00] feat(api): implement file upload and validation pipeline
 - [2025-09-05 20:00:00] test(utils): add end-to-end user registration test suite to prevent future regression
 - [2025-09-05 20:01:00] feat(billing): introduce pagination and sorting support
+- [2025-09-05 20:02:00] fix(worker): eliminate database connection pool starvation
