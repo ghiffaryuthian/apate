@@ -1093,3 +1093,4 @@
 - [2025-09-05 20:06:00] feat(core): introduce background task processing queue
 - [2025-09-05 20:07:00] feat: introduce asynchronous webhook notification dispatcher
 - [2025-09-05 20:08:00] fix(router): fix infinite redirection loop during logout
+- [2025-09-05 20:09:00] test(api): strengthen unit test coverage for authentication service
