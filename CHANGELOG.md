@@ -1085,3 +1085,4 @@
 - [2025-09-04 20:07:00] test(unit): update end-to-end user registration test suite
 - [2025-09-04 20:08:00] feat(api): implement file upload and validation pipeline
 - [2025-09-05 20:00:00] test(utils): add end-to-end user registration test suite to prevent future regression
+- [2025-09-05 20:01:00] feat(billing): introduce pagination and sorting support
