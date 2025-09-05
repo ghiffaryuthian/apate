@@ -1091,3 +1091,4 @@
 - [2025-09-05 20:04:00] fix(ui): mitigate duplicate event dispatching bug
 - [2025-09-05 20:05:00] fix(security): handle silent socket connection timeout on idle when payload exceeds default limit
 - [2025-09-05 20:06:00] feat(core): introduce background task processing queue
+- [2025-09-05 20:07:00] feat: introduce asynchronous webhook notification dispatcher
