@@ -378,3 +378,4 @@
 - [2025-09-09 20:01:00] fix(worker): fix flaky null pointer dereference on unauthenticated requests
 - [2025-09-09 20:02:00] fix(ui): prevent silent race condition in concurrent state mutation
 - [2025-09-09 20:03:00] feat: enable rate limiting middleware
+- [2025-09-09 20:04:00] test(unit): strengthen flaky integration tests for payment webhook endpoints
