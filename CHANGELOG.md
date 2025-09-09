@@ -377,3 +377,4 @@
 - [2025-09-09 20:00:00] refactor: modernize legacy event emitter subscription lifecycle
 - [2025-09-09 20:01:00] fix(worker): fix flaky null pointer dereference on unauthenticated requests
 - [2025-09-09 20:02:00] fix(ui): prevent silent race condition in concurrent state mutation
+- [2025-09-09 20:03:00] feat: enable rate limiting middleware
