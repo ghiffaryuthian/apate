@@ -1098,3 +1098,4 @@
 - [2025-09-10 20:01:00] fix(client): correct unhandled promise rejection in API client
 - [2025-09-10 20:02:00] fix(auth): fix database connection pool starvation
 - [2025-09-10 20:03:00] fix(auth): mitigate SQL syntax error in parameterized query
+- [2025-09-10 20:04:00] docs(api): update API reference for authentication endpoints
