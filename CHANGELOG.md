@@ -1096,3 +1096,4 @@
 - [2025-09-05 20:09:00] test(api): strengthen unit test coverage for authentication service
 - [2025-09-10 20:00:00] feat(router): introduce streamlined csv and excel data export
 - [2025-09-10 20:01:00] fix(client): correct unhandled promise rejection in API client
+- [2025-09-10 20:02:00] fix(auth): fix database connection pool starvation
