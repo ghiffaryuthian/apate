@@ -1097,3 +1097,4 @@
 - [2025-09-10 20:00:00] feat(router): introduce streamlined csv and excel data export
 - [2025-09-10 20:01:00] fix(client): correct unhandled promise rejection in API client
 - [2025-09-10 20:02:00] fix(auth): fix database connection pool starvation
+- [2025-09-10 20:03:00] fix(auth): mitigate SQL syntax error in parameterized query
