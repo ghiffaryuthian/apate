@@ -379,3 +379,4 @@
 - [2025-09-09 20:02:00] fix(ui): prevent silent race condition in concurrent state mutation
 - [2025-09-09 20:03:00] feat: enable rate limiting middleware
 - [2025-09-09 20:04:00] test(unit): strengthen flaky integration tests for payment webhook endpoints
+- [2025-09-10 20:00:00] docs(examples): clarify contributing guide and pull request process
