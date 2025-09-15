@@ -1103,3 +1103,4 @@
 - [2025-09-10 20:06:00] feat(router): introduce distributed session cache
 - [2025-09-15 20:00:00] style(formatting): align trailing whitespace and indentation anomalies
 - [2025-09-15 20:01:00] refactor: streamline shared helper utility functions
+- [2025-09-15 20:02:00] feat(api): add role-based access control (RBAC)
