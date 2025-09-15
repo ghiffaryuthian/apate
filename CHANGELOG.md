@@ -1105,3 +1105,4 @@
 - [2025-09-15 20:01:00] refactor: streamline shared helper utility functions
 - [2025-09-15 20:02:00] feat(api): add role-based access control (RBAC)
 - [2025-09-15 20:03:00] feat: support file upload and validation pipeline
+- [2025-09-15 20:04:00] docs(changelog): clarify API reference for authentication endpoints
