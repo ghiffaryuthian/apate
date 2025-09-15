@@ -384,3 +384,4 @@
 - [2025-09-10 20:02:00] chore(build): synchronize outdated release version tags and changelog metadata
 - [2025-09-10 20:03:00] feat(cache): support health check monitor endpoint for mobile clients
 - [2025-09-15 20:00:00] feat(api): implement background task processing queue to support multi-tenant accounts
+- [2025-09-15 20:01:00] fix(worker): fix unhandled off-by-one error during pagination slicing
