@@ -391,3 +391,4 @@
 - [2025-09-16 20:02:00] refactor(core): restructure monolithic domain model entity mappings
 - [2025-09-16 20:03:00] fix(api): eliminate null pointer dereference on unauthenticated requests
 - [2025-09-16 20:04:00] feat(auth): integrate audit trail logging mechanism for microservices
+- [2025-09-16 20:05:00] feat(auth): provide token expiration handling
