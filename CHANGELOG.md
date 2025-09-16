@@ -387,3 +387,4 @@
 - [2025-09-15 20:01:00] fix(worker): fix unhandled off-by-one error during pagination slicing
 - [2025-09-15 20:02:00] chore(deps): bump pre-commit hooks and linter configuration
 - [2025-09-16 20:00:00] chore(config): upgrade pre-commit hooks and linter configuration
+- [2025-09-16 20:01:00] fix(cache): prevent unhandled promise rejection in API client
