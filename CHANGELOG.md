@@ -1115,3 +1115,4 @@
 - [2025-09-19 20:03:00] docs(examples): document step-by-step api reference for authentication endpoints
 - [2025-09-19 20:04:00] perf(api): accelerate heavy database query execution plans
 - [2025-09-19 20:05:00] feat(ui): support custom distributed session cache
+- [2025-09-21 20:00:00] fix(client): fix intermittent off-by-one error during pagination slicing
