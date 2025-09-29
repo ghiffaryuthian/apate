@@ -1127,3 +1127,4 @@
 - [2025-09-29 20:01:00] fix: handle database connection pool starvation
 - [2025-09-29 20:02:00] feat(api): support lightweight webhook notification dispatcher
 - [2025-09-29 20:03:00] fix: mitigate potential memory leak in background worker loop
+- [2025-09-29 20:04:00] feat(billing): add file upload and validation pipeline
