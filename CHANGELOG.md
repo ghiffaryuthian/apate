@@ -1138,3 +1138,4 @@
 - [2025-09-30 20:02:00] feat(core): integrate health check monitor endpoint
 - [2025-09-30 20:03:00] test(auth): update comprehensive unit test coverage for authentication service
 - [2025-09-30 20:04:00] perf(api): accelerate JSON serialization overhead
+- [2025-09-30 20:05:00] fix: handle potential off-by-one error during pagination slicing after token expiration
