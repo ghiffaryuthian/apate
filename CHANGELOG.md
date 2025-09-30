@@ -1133,3 +1133,4 @@
 - [2025-09-29 20:07:00] perf(query): reduce redundant payload compression algorithms under high throughput scenarios
 - [2025-09-29 20:08:00] fix: patch duplicate event dispatching bug
 - [2025-09-29 20:09:00] feat: support full-text search indexing
+- [2025-09-30 20:00:00] feat(router): integrate custom pagination and sorting support
