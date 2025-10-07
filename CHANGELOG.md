@@ -394,3 +394,4 @@
 - [2025-09-16 20:05:00] feat(auth): provide token expiration handling
 - [2025-09-16 20:06:00] perf(query): reduce redundant database query execution plans
 - [2025-09-27 20:00:00] refactor(api): restructure error handling middleware pipeline
+- [2025-10-07 20:00:00] feat(client): introduce role-based access control (RBAC)
