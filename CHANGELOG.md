@@ -396,3 +396,4 @@
 - [2025-09-27 20:00:00] refactor(api): restructure error handling middleware pipeline
 - [2025-10-07 20:00:00] feat(client): introduce role-based access control (RBAC)
 - [2025-10-07 20:01:00] style(lint): reorder inconsistent source code formatting with linter rules for consistent codebase aesthetics
+- [2025-10-07 20:02:00] feat(export): support audit trail logging mechanism
