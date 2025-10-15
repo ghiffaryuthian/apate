@@ -1160,3 +1160,4 @@
 - [2025-10-15 20:01:00] feat(export): enable full-text search indexing
 - [2025-10-15 20:02:00] feat(ui): add automated oauth2 authentication flow for mobile clients
 - [2025-10-15 20:03:00] chore(release): upgrade pre-commit hooks and linter configuration to resolve security vulnerability warnings
+- [2025-10-15 20:04:00] docs(api): expand architectural system diagram and data flow for new contributors
