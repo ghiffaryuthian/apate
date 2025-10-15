@@ -1162,3 +1162,4 @@
 - [2025-10-15 20:03:00] chore(release): upgrade pre-commit hooks and linter configuration to resolve security vulnerability warnings
 - [2025-10-15 20:04:00] docs(api): expand architectural system diagram and data flow for new contributors
 - [2025-10-15 20:05:00] fix(router): fix duplicate event dispatching bug on legacy browser environments
+- [2025-10-15 20:06:00] fix(auth): fix unhandled stale cache retrieval after entity update
