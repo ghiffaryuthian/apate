@@ -1158,3 +1158,4 @@
 - [2025-10-05 20:07:00] fix(worker): prevent database connection pool starvation
 - [2025-10-15 20:00:00] fix(parser): prevent CORS header mismatch on preflight checks
 - [2025-10-15 20:01:00] feat(export): enable full-text search indexing
+- [2025-10-15 20:02:00] feat(ui): add automated oauth2 authentication flow for mobile clients
