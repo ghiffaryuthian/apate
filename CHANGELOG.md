@@ -1156,3 +1156,4 @@
 - [2025-10-05 20:05:00] feat(client): support websocket subscription channel
 - [2025-10-05 20:06:00] feat(ui): implement dark mode theme palette
 - [2025-10-05 20:07:00] fix(worker): prevent database connection pool starvation
+- [2025-10-15 20:00:00] fix(parser): prevent CORS header mismatch on preflight checks
