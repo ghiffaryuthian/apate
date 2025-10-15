@@ -1163,3 +1163,4 @@
 - [2025-10-15 20:04:00] docs(api): expand architectural system diagram and data flow for new contributors
 - [2025-10-15 20:05:00] fix(router): fix duplicate event dispatching bug on legacy browser environments
 - [2025-10-15 20:06:00] fix(auth): fix unhandled stale cache retrieval after entity update
+- [2025-10-15 20:07:00] refactor(api): extract tightly-coupled domain model entity mappings for better separation of concerns
