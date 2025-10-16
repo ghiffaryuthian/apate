@@ -1165,3 +1165,4 @@
 - [2025-10-15 20:06:00] fix(auth): fix unhandled stale cache retrieval after entity update
 - [2025-10-15 20:07:00] refactor(api): extract tightly-coupled domain model entity mappings for better separation of concerns
 - [2025-10-15 20:08:00] feat(db): integrate full-text search indexing
+- [2025-10-16 20:00:00] chore(ci): update CI matrix to test against latest LTS runtime
