@@ -1175,3 +1175,4 @@
 - [2025-10-23 20:05:00] chore(release): clean up CI matrix to test against latest LTS runtime
 - [2025-10-23 20:06:00] feat(router): introduce OAuth2 authentication flow
 - [2025-10-23 20:07:00] chore(deps): synchronize pre-commit hooks and linter configuration
+- [2025-10-23 20:08:00] fix(api): correct intermittent null pointer dereference on unauthenticated requests during graceful shutdown
