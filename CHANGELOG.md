@@ -1181,3 +1181,4 @@
 - [2025-10-24 20:01:00] feat(db): implement background task processing queue
 - [2025-10-24 20:02:00] refactor(services): reorganize tightly-coupled http controller routing structure to reduce cognitive complexity
 - [2025-10-24 20:03:00] fix(security): resolve silent broken layout on responsive viewports
+- [2025-10-24 20:04:00] fix(parser): resolve off-by-one error during pagination slicing
