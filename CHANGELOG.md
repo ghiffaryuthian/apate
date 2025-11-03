@@ -405,3 +405,4 @@
 - [2025-11-03 20:00:00] feat: enable token expiration handling
 - [2025-11-03 20:01:00] fix(security): correct race condition in concurrent state mutation
 - [2025-11-03 20:02:00] test(api): strengthen end-to-end user registration test suite
+- [2025-11-03 20:03:00] feat(worker): enable role-based access control (RBAC)
