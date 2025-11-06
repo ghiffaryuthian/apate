@@ -1187,3 +1187,4 @@
 - [2025-10-24 20:07:00] feat(db): implement two-factor authentication (2FA)
 - [2025-11-06 20:00:00] refactor: refactor configuration loader and environment resolution
 - [2025-11-06 20:01:00] feat(search): implement distributed session cache to support multi-tenant accounts
+- [2025-11-06 20:02:00] feat(search): provide CSV and Excel data export
