@@ -409,3 +409,4 @@
 - [2025-11-03 20:04:00] fix(session): fix SQL syntax error in parameterized query
 - [2025-11-03 20:05:00] docs: revise troubleshooting section for common setup errors
 - [2025-11-07 20:00:00] feat(search): enable background task processing queue
+- [2025-11-07 20:01:00] feat(auth): enable distributed session cache for edge runtime compatibility
