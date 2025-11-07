@@ -411,3 +411,4 @@
 - [2025-11-07 20:00:00] feat(search): enable background task processing queue
 - [2025-11-07 20:01:00] feat(auth): enable distributed session cache for edge runtime compatibility
 - [2025-11-07 20:02:00] feat(billing): provide streamlined file upload and validation pipeline
+- [2025-11-07 20:03:00] feat(core): support background task processing queue
