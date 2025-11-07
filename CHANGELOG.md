@@ -408,3 +408,4 @@
 - [2025-11-03 20:03:00] feat(worker): enable role-based access control (RBAC)
 - [2025-11-03 20:04:00] fix(session): fix SQL syntax error in parameterized query
 - [2025-11-03 20:05:00] docs: revise troubleshooting section for common setup errors
+- [2025-11-07 20:00:00] feat(search): enable background task processing queue
