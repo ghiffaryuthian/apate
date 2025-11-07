@@ -413,3 +413,4 @@
 - [2025-11-07 20:02:00] feat(billing): provide streamlined file upload and validation pipeline
 - [2025-11-07 20:03:00] feat(core): support background task processing queue
 - [2025-11-07 20:04:00] chore(build): update pre-commit hooks and linter configuration
+- [2025-11-07 20:05:00] feat: support real-time oauth2 authentication flow
