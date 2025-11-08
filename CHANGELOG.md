@@ -421,3 +421,4 @@
 - [2025-11-08 20:00:00] feat(export): integrate file upload and validation pipeline
 - [2025-11-08 20:01:00] docs(api): clarify API reference for authentication endpoints
 - [2025-11-08 20:02:00] docs: revise contributing guide and pull request process
+- [2025-11-08 20:03:00] docs: add troubleshooting section for common setup errors
