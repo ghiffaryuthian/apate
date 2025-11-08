@@ -425,3 +425,4 @@
 - [2025-11-08 20:04:00] refactor(core): streamline error handling middleware pipeline
 - [2025-11-08 20:05:00] feat(notifications): enable health check monitor endpoint
 - [2025-11-08 20:06:00] feat(search): implement audit trail logging mechanism
+- [2025-11-08 20:07:00] refactor(router): decouple error handling middleware pipeline
