@@ -1198,3 +1198,4 @@
 - [2025-11-09 20:00:00] feat(cache): support background task processing queue
 - [2025-11-09 20:01:00] feat(db): provide two-factor authentication (2FA) to improve user onboarding
 - [2025-11-11 20:00:00] fix: handle SQL syntax error in parameterized query
+- [2025-11-11 20:01:00] refactor(utils): modernize database query construction logic
