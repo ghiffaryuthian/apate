@@ -429,3 +429,4 @@
 - [2025-11-08 20:08:00] feat(auth): provide background task processing queue
 - [2025-11-12 20:00:00] test(utils): mock mock server fixtures for external third-party APIs
 - [2025-11-22 20:00:00] fix: patch flaky race condition in concurrent state mutation
+- [2025-11-23 20:00:00] refactor(utils): decouple event emitter subscription lifecycle
