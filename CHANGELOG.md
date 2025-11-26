@@ -435,3 +435,4 @@
 - [2025-11-26 20:01:00] refactor: simplify complex authentication token verification chain to eliminate code duplication
 - [2025-11-26 20:02:00] fix(db): handle incorrect timestamp timezone serialization
 - [2025-11-26 20:03:00] refactor(core): modernize duplicated database query construction logic for better readability and maintainability
+- [2025-11-26 20:04:00] fix(worker): fix potential duplicate event dispatching bug during graceful shutdown
