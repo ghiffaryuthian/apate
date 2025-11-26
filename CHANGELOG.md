@@ -431,3 +431,4 @@
 - [2025-11-22 20:00:00] fix: patch flaky race condition in concurrent state mutation
 - [2025-11-23 20:00:00] refactor(utils): decouple event emitter subscription lifecycle
 - [2025-11-23 20:01:00] fix(db): fix intermittent sql syntax error in parameterized query during graceful shutdown
+- [2025-11-26 20:00:00] feat(billing): enable file upload and validation pipeline
