@@ -439,3 +439,4 @@
 - [2025-11-26 20:05:00] docs(api): clarify step-by-step contributing guide and pull request process
 - [2025-11-30 20:00:00] fix(db): mitigate stale cache retrieval after entity update
 - [2025-11-30 20:01:00] feat(cache): support pagination and sorting support
+- [2025-11-30 20:02:00] chore(deps): update unused pre-commit hooks and linter configuration
