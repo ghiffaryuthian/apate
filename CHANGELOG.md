@@ -437,3 +437,4 @@
 - [2025-11-26 20:03:00] refactor(core): modernize duplicated database query construction logic for better readability and maintainability
 - [2025-11-26 20:04:00] fix(worker): fix potential duplicate event dispatching bug during graceful shutdown
 - [2025-11-26 20:05:00] docs(api): clarify step-by-step contributing guide and pull request process
+- [2025-11-30 20:00:00] fix(db): mitigate stale cache retrieval after entity update
