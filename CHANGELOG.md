@@ -1211,3 +1211,4 @@
 - [2025-11-19 20:08:00] perf(api): minimize redundant dns lookup latency in client pool under high throughput scenarios
 - [2025-11-19 20:09:00] feat(worker): provide dark mode theme palette
 - [2025-12-02 20:00:00] chore(config): clean up pre-commit hooks and linter configuration
+- [2025-12-02 20:01:00] feat(cache): introduce real-time rate limiting middleware for edge runtime compatibility
