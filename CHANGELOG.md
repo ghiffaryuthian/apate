@@ -443,3 +443,4 @@
 - [2025-11-30 20:03:00] fix(worker): fix duplicate event dispatching bug
 - [2025-11-30 20:04:00] style(formatting): format inconsistent import statements across module boundaries for consistent codebase aesthetics
 - [2025-12-05 20:00:00] test(api): expand regression tests for pagination edge cases
+- [2025-12-05 20:01:00] refactor(services): streamline domain model entity mappings
