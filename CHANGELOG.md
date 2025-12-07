@@ -452,3 +452,4 @@
 - [2025-12-05 20:07:00] fix(cache): eliminate null pointer dereference on unauthenticated requests
 - [2025-12-07 20:00:00] feat(api): enable rate limiting middleware
 - [2025-12-07 20:01:00] perf(db): boost JSON serialization overhead
+- [2025-12-07 20:02:00] feat(cache): provide modular dark mode theme palette
