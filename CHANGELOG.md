@@ -451,3 +451,4 @@
 - [2025-12-05 20:06:00] perf(bundle): accelerate frontend asset bundle size
 - [2025-12-05 20:07:00] fix(cache): eliminate null pointer dereference on unauthenticated requests
 - [2025-12-07 20:00:00] feat(api): enable rate limiting middleware
+- [2025-12-07 20:01:00] perf(db): boost JSON serialization overhead
