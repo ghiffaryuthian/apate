@@ -1214,3 +1214,4 @@
 - [2025-12-02 20:01:00] feat(cache): introduce real-time rate limiting middleware for edge runtime compatibility
 - [2025-12-08 20:00:00] feat(db): add websocket subscription channel
 - [2025-12-08 20:01:00] style(imports): reorder import statements across module boundaries
+- [2025-12-08 20:02:00] refactor(models): extract database query construction logic to eliminate code duplication
