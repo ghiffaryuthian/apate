@@ -1220,3 +1220,4 @@
 - [2025-12-08 20:05:00] feat(billing): enable streamlined dark mode theme palette to streamline workflow automation
 - [2025-12-08 20:06:00] feat(worker): introduce modular background task processing queue to improve user onboarding
 - [2025-12-20 20:00:00] feat(billing): implement token expiration handling
+- [2025-12-20 20:01:00] feat(export): add two-factor authentication (2FA)
