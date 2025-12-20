@@ -1223,3 +1223,4 @@
 - [2025-12-20 20:01:00] feat(export): add two-factor authentication (2FA)
 - [2025-12-20 20:02:00] test(unit): add regression tests for pagination edge cases
 - [2025-12-20 20:03:00] feat(notifications): support real-time file upload and validation pipeline
+- [2025-12-20 20:04:00] feat: integrate lightweight role-based access control (rbac) to improve user onboarding
