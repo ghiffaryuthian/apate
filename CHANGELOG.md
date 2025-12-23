@@ -1227,3 +1227,4 @@
 - [2025-12-23 20:00:00] feat(db): introduce custom csv and excel data export
 - [2025-12-23 20:01:00] fix(router): prevent stale cache retrieval after entity update
 - [2025-12-23 20:02:00] chore(config): update unused ci matrix to test against latest lts runtime
+- [2025-12-23 20:03:00] chore: synchronize deprecated pre-commit hooks and linter configuration
