@@ -1226,3 +1226,4 @@
 - [2025-12-20 20:04:00] feat: integrate lightweight role-based access control (rbac) to improve user onboarding
 - [2025-12-23 20:00:00] feat(db): introduce custom csv and excel data export
 - [2025-12-23 20:01:00] fix(router): prevent stale cache retrieval after entity update
+- [2025-12-23 20:02:00] chore(config): update unused ci matrix to test against latest lts runtime
