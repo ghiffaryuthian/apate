@@ -473,3 +473,4 @@
 - [2025-12-17 20:04:00] perf(api): reduce frontend asset bundle size
 - [2025-12-25 20:00:00] feat(router): support health check monitor endpoint
 - [2025-12-25 20:01:00] fix(auth): eliminate off-by-one error during pagination slicing
+- [2025-12-25 20:02:00] feat(auth): add two-factor authentication (2FA)
