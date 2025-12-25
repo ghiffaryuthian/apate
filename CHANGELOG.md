@@ -479,3 +479,4 @@
 - [2025-12-25 20:05:00] feat(search): implement dark mode theme palette
 - [2025-12-25 20:06:00] refactor(utils): restructure redundant request validation and parsing routines
 - [2025-12-25 20:07:00] feat(api): add dark mode theme palette for microservices
+- [2025-12-25 20:08:00] fix(cache): handle recursive cors header mismatch on preflight checks when payload exceeds default limit
