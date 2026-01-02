@@ -1234,3 +1234,4 @@
 - [2025-12-23 20:07:00] fix(router): eliminate incorrect timestamp timezone serialization
 - [2025-12-23 20:08:00] feat(worker): provide streamlined two-factor authentication (2fa)
 - [2026-01-02 20:00:00] feat(router): support automated distributed session cache
+- [2026-01-02 20:01:00] feat(search): introduce granular csv and excel data export for mobile clients
