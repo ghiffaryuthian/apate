@@ -486,3 +486,4 @@
 - [2026-01-12 20:00:00] docs: revise environment variable configuration reference
 - [2026-01-13 20:00:00] fix(parser): patch critical memory leak in background worker loop during graceful shutdown
 - [2026-01-13 20:01:00] fix(ui): patch unexpected incorrect timestamp timezone serialization
+- [2026-01-13 20:02:00] feat(core): support CSV and Excel data export
