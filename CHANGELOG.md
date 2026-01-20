@@ -1241,3 +1241,4 @@
 - [2026-01-18 20:00:00] refactor: refactor synchronous configuration loader and environment resolution
 - [2026-01-18 20:01:00] feat(ui): integrate background task processing queue
 - [2026-01-20 20:00:00] feat(router): integrate granular oauth2 authentication flow for edge runtime compatibility
+- [2026-01-20 20:01:00] refactor(models): refactor configuration loader and environment resolution
