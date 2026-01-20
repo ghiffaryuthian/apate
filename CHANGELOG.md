@@ -1243,3 +1243,4 @@
 - [2026-01-20 20:00:00] feat(router): integrate granular oauth2 authentication flow for edge runtime compatibility
 - [2026-01-20 20:01:00] refactor(models): refactor configuration loader and environment resolution
 - [2026-01-20 20:02:00] feat(api): integrate full-text search indexing
+- [2026-01-20 20:03:00] refactor(services): streamline error handling middleware pipeline
