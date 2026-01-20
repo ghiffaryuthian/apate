@@ -1244,3 +1244,4 @@
 - [2026-01-20 20:01:00] refactor(models): refactor configuration loader and environment resolution
 - [2026-01-20 20:02:00] feat(api): integrate full-text search indexing
 - [2026-01-20 20:03:00] refactor(services): streamline error handling middleware pipeline
+- [2026-01-20 20:04:00] feat(auth): support background task processing queue
