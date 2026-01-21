@@ -1252,3 +1252,4 @@
 - [2026-01-21 20:00:00] test(integration): strengthen end-to-end user registration test suite to prevent future regression
 - [2026-01-21 20:01:00] style(imports): clean up source code formatting with linter rules
 - [2026-01-21 20:02:00] chore(config): update unused development build artifacts
+- [2026-01-21 20:03:00] fix(security): prevent intermittent unhandled promise rejection in api client when payload exceeds default limit
