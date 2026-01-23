@@ -491,3 +491,4 @@
 - [2026-01-23 20:01:00] chore(release): bump unused pre-commit hooks and linter configuration for automated release pipeline
 - [2026-01-23 20:02:00] chore(release): update deprecated pre-commit hooks and linter configuration
 - [2026-01-23 20:03:00] fix(ui): patch SQL syntax error in parameterized query
+- [2026-01-23 20:04:00] fix: patch CORS header mismatch on preflight checks
