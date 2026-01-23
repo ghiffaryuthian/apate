@@ -489,3 +489,4 @@
 - [2026-01-13 20:02:00] feat(core): support CSV and Excel data export
 - [2026-01-23 20:00:00] feat(cache): integrate automated full-text search indexing
 - [2026-01-23 20:01:00] chore(release): bump unused pre-commit hooks and linter configuration for automated release pipeline
+- [2026-01-23 20:02:00] chore(release): update deprecated pre-commit hooks and linter configuration
