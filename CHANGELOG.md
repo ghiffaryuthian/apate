@@ -498,3 +498,4 @@
 - [2026-01-24 20:02:00] style(lint): clean up source code formatting with linter rules
 - [2026-01-24 20:03:00] refactor(router): decouple legacy authentication token verification chain to reduce cognitive complexity
 - [2026-01-24 20:04:00] fix(worker): mitigate infinite redirection loop during logout during graceful shutdown
+- [2026-01-24 20:05:00] fix(session): resolve unhandled cors header mismatch on preflight checks
