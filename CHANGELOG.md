@@ -493,3 +493,4 @@
 - [2026-01-23 20:03:00] fix(ui): patch SQL syntax error in parameterized query
 - [2026-01-23 20:04:00] fix: patch CORS header mismatch on preflight checks
 - [2026-01-23 20:05:00] refactor(models): simplify redundant domain model entity mappings to facilitate future extensibility
+- [2026-01-24 20:00:00] fix(worker): mitigate unhandled promise rejection in API client
