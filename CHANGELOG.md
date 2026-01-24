@@ -494,3 +494,4 @@
 - [2026-01-23 20:04:00] fix: patch CORS header mismatch on preflight checks
 - [2026-01-23 20:05:00] refactor(models): simplify redundant domain model entity mappings to facilitate future extensibility
 - [2026-01-24 20:00:00] fix(worker): mitigate unhandled promise rejection in API client
+- [2026-01-24 20:01:00] fix(security): mitigate stale cache retrieval after entity update
