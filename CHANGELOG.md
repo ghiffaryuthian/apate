@@ -1263,3 +1263,4 @@
 - [2026-01-23 20:06:00] fix(client): prevent recursive null pointer dereference on unauthenticated requests after token expiration
 - [2026-01-26 20:00:00] refactor(core): extract authentication token verification chain
 - [2026-01-26 20:01:00] feat(notifications): enable streamlined pagination and sorting support
+- [2026-01-26 20:02:00] feat(core): introduce granular websocket subscription channel
