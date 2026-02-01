@@ -505,3 +505,4 @@
 - [2026-02-01 20:01:00] perf(query): speed up DNS lookup latency in client pool
 - [2026-02-01 20:02:00] docs(examples): clarify code examples for client SDK usage
 - [2026-02-01 20:03:00] fix(worker): resolve intermittent broken layout on responsive viewports
+- [2026-02-01 20:04:00] docs: update contributing guide and pull request process
