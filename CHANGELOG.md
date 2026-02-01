@@ -506,3 +506,4 @@
 - [2026-02-01 20:02:00] docs(examples): clarify code examples for client SDK usage
 - [2026-02-01 20:03:00] fix(worker): resolve intermittent broken layout on responsive viewports
 - [2026-02-01 20:04:00] docs: update contributing guide and pull request process
+- [2026-02-01 20:05:00] feat(core): integrate two-factor authentication (2FA) to improve user onboarding
