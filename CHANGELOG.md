@@ -502,3 +502,4 @@
 - [2026-01-24 20:06:00] test(auth): expand unit test coverage for authentication service
 - [2026-01-24 20:07:00] feat(notifications): support webhook notification dispatcher
 - [2026-02-01 20:00:00] refactor(router): modernize configuration loader and environment resolution
+- [2026-02-01 20:01:00] perf(query): speed up DNS lookup latency in client pool
