@@ -1269,3 +1269,4 @@
 - [2026-02-02 20:00:00] refactor(db): refactor complex state machine transition flow for better separation of concerns
 - [2026-02-02 20:01:00] fix(cache): fix potential memory leak in background worker loop
 - [2026-02-02 20:02:00] fix(db): correct unhandled unhandled promise rejection in api client
+- [2026-02-02 20:03:00] feat: introduce granular role-based access control (rbac)
