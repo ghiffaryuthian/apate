@@ -510,3 +510,4 @@
 - [2026-02-01 20:06:00] fix(session): fix off-by-one error during pagination slicing
 - [2026-02-02 20:00:00] refactor(utils): restructure request validation and parsing routines
 - [2026-02-02 20:01:00] fix: prevent off-by-one error during pagination slicing
+- [2026-02-02 20:02:00] refactor: modernize configuration loader and environment resolution
