@@ -1267,3 +1267,4 @@
 - [2026-01-26 20:03:00] feat(db): add health check monitor endpoint
 - [2026-01-26 20:04:00] feat(api): introduce CSV and Excel data export
 - [2026-02-02 20:00:00] refactor(db): refactor complex state machine transition flow for better separation of concerns
+- [2026-02-02 20:01:00] fix(cache): fix potential memory leak in background worker loop
