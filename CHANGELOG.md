@@ -516,3 +516,4 @@
 - [2026-02-02 20:05:00] perf: minimize heavy dns lookup latency in client pool
 - [2026-02-02 20:06:00] feat(worker): implement health check monitor endpoint for microservices
 - [2026-02-02 20:07:00] fix(ui): fix recursive broken layout on responsive viewports
+- [2026-02-02 20:08:00] feat(api): support pagination and sorting support
