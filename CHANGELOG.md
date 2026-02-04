@@ -518,3 +518,4 @@
 - [2026-02-02 20:07:00] fix(ui): fix recursive broken layout on responsive viewports
 - [2026-02-02 20:08:00] feat(api): support pagination and sorting support
 - [2026-02-04 20:00:00] docs(contributing): document contributing guide and pull request process
+- [2026-02-04 20:01:00] refactor(models): refactor error handling middleware pipeline
