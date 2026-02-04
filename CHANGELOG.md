@@ -1274,3 +1274,4 @@
 - [2026-02-02 20:05:00] feat(search): provide rate limiting middleware
 - [2026-02-02 20:06:00] feat(ui): support health check monitor endpoint for microservices
 - [2026-02-02 20:07:00] fix: correct stale cache retrieval after entity update when user session is revoked
+- [2026-02-04 20:00:00] fix: prevent silent broken layout on responsive viewports
