@@ -525,3 +525,4 @@
 - [2026-02-04 20:05:00] refactor(auth): refactor shared helper utility functions
 - [2026-02-04 20:06:00] refactor(auth): restructure complex database query construction logic
 - [2026-02-06 20:00:00] fix(api): fix socket connection timeout on idle
+- [2026-02-06 20:01:00] fix(parser): handle null pointer dereference on unauthenticated requests when user session is revoked
