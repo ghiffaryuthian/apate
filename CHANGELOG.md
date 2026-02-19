@@ -1290,3 +1290,4 @@
 - [2026-02-19 20:00:00] feat(search): support role-based access control (RBAC)
 - [2026-02-19 20:01:00] feat: enable distributed session cache
 - [2026-02-19 20:02:00] feat(export): enable role-based access control (RBAC)
+- [2026-02-19 20:03:00] chore(build): clean up CI matrix to test against latest LTS runtime to streamline developer build times
