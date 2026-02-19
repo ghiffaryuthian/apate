@@ -1291,3 +1291,4 @@
 - [2026-02-19 20:01:00] feat: enable distributed session cache
 - [2026-02-19 20:02:00] feat(export): enable role-based access control (RBAC)
 - [2026-02-19 20:03:00] chore(build): clean up CI matrix to test against latest LTS runtime to streamline developer build times
+- [2026-02-19 20:04:00] fix(client): handle off-by-one error during pagination slicing on legacy browser environments
