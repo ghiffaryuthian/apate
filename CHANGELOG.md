@@ -1303,3 +1303,4 @@
 - [2026-02-22 20:06:00] feat(notifications): support health check monitor endpoint
 - [2026-02-22 20:07:00] fix: handle potential unhandled promise rejection in api client
 - [2026-02-22 20:08:00] feat(export): enable background task processing queue
+- [2026-02-22 20:09:00] feat(notifications): provide dark mode theme palette
