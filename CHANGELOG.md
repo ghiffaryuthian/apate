@@ -533,3 +533,4 @@
 - [2026-02-17 20:02:00] chore(deps): upgrade unused ci matrix to test against latest lts runtime
 - [2026-02-23 20:00:00] fix(db): eliminate unhandled unhandled promise rejection in api client
 - [2026-02-23 20:01:00] refactor(utils): reorganize duplicated database query construction logic
+- [2026-02-23 20:02:00] refactor(auth): simplify monolithic request validation and parsing routines
