@@ -531,3 +531,4 @@
 - [2026-02-17 20:00:00] fix(security): correct flaky incorrect timestamp timezone serialization
 - [2026-02-17 20:01:00] feat(search): introduce file upload and validation pipeline
 - [2026-02-17 20:02:00] chore(deps): upgrade unused ci matrix to test against latest lts runtime
+- [2026-02-23 20:00:00] fix(db): eliminate unhandled unhandled promise rejection in api client
