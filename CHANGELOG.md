@@ -535,3 +535,4 @@
 - [2026-02-23 20:01:00] refactor(utils): reorganize duplicated database query construction logic
 - [2026-02-23 20:02:00] refactor(auth): simplify monolithic request validation and parsing routines
 - [2026-02-23 20:03:00] style(imports): reorder import statements across module boundaries
+- [2026-02-25 20:00:00] fix(cache): mitigate recursive unhandled promise rejection in api client
