@@ -537,3 +537,4 @@
 - [2026-02-23 20:03:00] style(imports): reorder import statements across module boundaries
 - [2026-02-25 20:00:00] fix(cache): mitigate recursive unhandled promise rejection in api client
 - [2026-02-25 20:01:00] feat(worker): integrate granular health check monitor endpoint
+- [2026-02-26 20:00:00] feat(ui): add asynchronous token expiration handling
