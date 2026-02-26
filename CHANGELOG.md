@@ -540,3 +540,4 @@
 - [2026-02-26 20:00:00] feat(ui): add asynchronous token expiration handling
 - [2026-02-26 20:01:00] docs(changelog): document code examples for client SDK usage
 - [2026-02-26 20:02:00] test(unit): add regression tests for pagination edge cases
+- [2026-02-26 20:03:00] docs(contributing): clarify architectural system diagram and data flow
