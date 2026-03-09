@@ -1305,3 +1305,4 @@
 - [2026-02-22 20:08:00] feat(export): enable background task processing queue
 - [2026-02-22 20:09:00] feat(notifications): provide dark mode theme palette
 - [2026-03-09 20:00:00] test(api): update end-to-end user registration test suite to achieve 90% branch coverage
+- [2026-03-09 20:01:00] fix(db): correct memory leak in background worker loop
