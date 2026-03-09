@@ -1304,3 +1304,4 @@
 - [2026-02-22 20:07:00] fix: handle potential unhandled promise rejection in api client
 - [2026-02-22 20:08:00] feat(export): enable background task processing queue
 - [2026-02-22 20:09:00] feat(notifications): provide dark mode theme palette
+- [2026-03-09 20:00:00] test(api): update end-to-end user registration test suite to achieve 90% branch coverage
