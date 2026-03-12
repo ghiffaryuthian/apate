@@ -1310,3 +1310,4 @@
 - [2026-03-12 20:00:00] feat(db): introduce dynamic webhook notification dispatcher
 - [2026-03-12 20:01:00] feat(search): provide role-based access control (RBAC)
 - [2026-03-12 20:02:00] fix(session): handle duplicate event dispatching bug
+- [2026-03-12 20:03:00] fix(client): correct database connection pool starvation
