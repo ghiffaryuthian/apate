@@ -545,3 +545,4 @@
 - [2026-02-26 20:05:00] chore(config): clean up dependencies in lockfile to latest patch to streamline developer build times
 - [2026-03-13 20:00:00] feat(billing): introduce websocket subscription channel
 - [2026-03-13 20:01:00] feat(search): enable health check monitor endpoint for mobile clients
+- [2026-03-13 20:02:00] fix(client): fix null pointer dereference on unauthenticated requests
