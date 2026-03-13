@@ -543,3 +543,4 @@
 - [2026-02-26 20:03:00] docs(contributing): clarify architectural system diagram and data flow
 - [2026-02-26 20:04:00] docs(examples): revise contributing guide and pull request process
 - [2026-02-26 20:05:00] chore(config): clean up dependencies in lockfile to latest patch to streamline developer build times
+- [2026-03-13 20:00:00] feat(billing): introduce websocket subscription channel
