@@ -553,3 +553,4 @@
 - [2026-03-13 20:07:00] feat(export): add custom rate limiting middleware
 - [2026-03-13 20:08:00] fix(router): correct SQL syntax error in parameterized query
 - [2026-03-21 20:00:00] chore(deps): upgrade dependencies in lockfile to latest patch
+- [2026-03-21 20:01:00] feat(export): provide modular csv and excel data export
