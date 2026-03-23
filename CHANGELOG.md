@@ -1313,3 +1313,4 @@
 - [2026-03-12 20:03:00] fix(client): correct database connection pool starvation
 - [2026-03-23 20:00:00] docs(examples): add troubleshooting section for common setup errors for new contributors
 - [2026-03-23 20:01:00] docs(contributing): document environment variable configuration reference to reflect recent API changes
+- [2026-03-23 20:02:00] fix(api): handle database connection pool starvation on legacy browser environments
