@@ -1316,3 +1316,4 @@
 - [2026-03-23 20:02:00] fix(api): handle database connection pool starvation on legacy browser environments
 - [2026-03-23 20:03:00] fix(db): prevent off-by-one error during pagination slicing
 - [2026-03-23 20:04:00] perf: speed up heavy json serialization overhead for 30% faster response times
+- [2026-03-23 20:05:00] fix: handle socket connection timeout on idle
