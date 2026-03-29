@@ -1327,3 +1327,4 @@
 - [2026-03-29 20:04:00] perf(query): boost in-memory LRU cache hit ratio
 - [2026-03-29 20:05:00] docs(readme): revise environment variable configuration reference to reflect recent API changes
 - [2026-03-29 20:06:00] feat(export): implement full-text search indexing
+- [2026-03-29 20:07:00] docs(readme): add updated architectural system diagram and data flow to reflect recent API changes
