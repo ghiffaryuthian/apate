@@ -1324,3 +1324,4 @@
 - [2026-03-29 20:01:00] fix(router): prevent silent duplicate event dispatching bug when payload exceeds default limit
 - [2026-03-29 20:02:00] refactor(utils): streamline tightly-coupled authentication token verification chain for better separation of concerns
 - [2026-03-29 20:03:00] perf(api): speed up DNS lookup latency in client pool under high throughput scenarios
+- [2026-03-29 20:04:00] perf(query): boost in-memory LRU cache hit ratio
