@@ -1326,3 +1326,4 @@
 - [2026-03-29 20:03:00] perf(api): speed up DNS lookup latency in client pool under high throughput scenarios
 - [2026-03-29 20:04:00] perf(query): boost in-memory LRU cache hit ratio
 - [2026-03-29 20:05:00] docs(readme): revise environment variable configuration reference to reflect recent API changes
+- [2026-03-29 20:06:00] feat(export): implement full-text search indexing
