@@ -561,3 +561,4 @@
 - [2026-03-21 20:06:00] feat(worker): introduce granular pagination and sorting support
 - [2026-03-21 20:07:00] feat(auth): implement file upload and validation pipeline to streamline workflow automation
 - [2026-03-21 20:08:00] fix(auth): correct CORS header mismatch on preflight checks
+- [2026-03-29 20:00:00] refactor(auth): reorganize legacy event emitter subscription lifecycle
