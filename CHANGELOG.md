@@ -1321,3 +1321,4 @@
 - [2026-03-23 20:07:00] chore: clean up CI matrix to test against latest LTS runtime
 - [2026-03-23 20:08:00] fix(cache): correct stale cache retrieval after entity update
 - [2026-03-29 20:00:00] perf(cache): accelerate unindexed frontend asset bundle size
+- [2026-03-29 20:01:00] fix(router): prevent silent duplicate event dispatching bug when payload exceeds default limit
