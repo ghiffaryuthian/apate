@@ -564,3 +564,4 @@
 - [2026-03-29 20:00:00] refactor(auth): reorganize legacy event emitter subscription lifecycle
 - [2026-03-29 20:01:00] fix(auth): correct null pointer dereference on unauthenticated requests on legacy browser environments
 - [2026-03-29 20:02:00] feat(worker): enable role-based access control (RBAC)
+- [2026-03-29 20:03:00] refactor(utils): reorganize request validation and parsing routines
