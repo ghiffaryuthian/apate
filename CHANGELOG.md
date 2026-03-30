@@ -1329,3 +1329,4 @@
 - [2026-03-29 20:06:00] feat(export): implement full-text search indexing
 - [2026-03-29 20:07:00] docs(readme): add updated architectural system diagram and data flow to reflect recent API changes
 - [2026-03-29 20:08:00] fix: fix broken layout on responsive viewports when user session is revoked
+- [2026-03-30 20:00:00] docs(readme): expand installation and setup instructions in README
