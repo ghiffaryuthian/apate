@@ -1334,3 +1334,4 @@
 - [2026-03-30 20:02:00] chore(release): prune release version tags and changelog metadata
 - [2026-03-30 20:03:00] feat: add background task processing queue
 - [2026-03-30 20:04:00] feat(search): support health check monitor endpoint
+- [2026-03-30 20:05:00] chore(release): update unused development build artifacts
