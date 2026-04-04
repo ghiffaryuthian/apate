@@ -569,3 +569,4 @@
 - [2026-03-29 20:05:00] feat(db): introduce dark mode theme palette
 - [2026-03-29 20:06:00] feat(client): integrate dark mode theme palette
 - [2026-04-04 20:00:00] feat(search): implement CSV and Excel data export
+- [2026-04-04 20:01:00] refactor(api): refactor authentication token verification chain
