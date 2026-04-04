@@ -1340,3 +1340,4 @@
 - [2026-03-30 20:08:00] fix(security): mitigate socket connection timeout on idle
 - [2026-03-30 20:09:00] feat(client): add OAuth2 authentication flow
 - [2026-04-04 20:00:00] chore(config): prune release version tags and changelog metadata to resolve security vulnerability warnings
+- [2026-04-04 20:01:00] feat(router): implement distributed session cache
