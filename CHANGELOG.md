@@ -573,3 +573,4 @@
 - [2026-04-09 20:00:00] fix(db): correct broken layout on responsive viewports
 - [2026-04-09 20:01:00] feat: integrate OAuth2 authentication flow
 - [2026-04-09 20:02:00] fix(security): resolve stale cache retrieval after entity update
+- [2026-04-09 20:03:00] docs(examples): revise missing troubleshooting section for common setup errors to reflect recent API changes
