@@ -1348,3 +1348,4 @@
 - [2026-04-09 20:00:00] perf(db): accelerate database query execution plans
 - [2026-04-09 20:01:00] refactor(core): reorganize redundant state machine transition flow
 - [2026-04-09 20:02:00] feat: introduce health check monitor endpoint
+- [2026-04-09 20:03:00] refactor(services): modernize database query construction logic to eliminate code duplication
