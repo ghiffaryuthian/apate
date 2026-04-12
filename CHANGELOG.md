@@ -1352,3 +1352,4 @@
 - [2026-04-09 20:04:00] feat(router): implement background task processing queue
 - [2026-04-12 20:00:00] feat(core): introduce granular csv and excel data export
 - [2026-04-12 20:01:00] fix(session): eliminate broken layout on responsive viewports during graceful shutdown
+- [2026-04-12 20:02:00] fix(db): resolve unhandled promise rejection in API client
