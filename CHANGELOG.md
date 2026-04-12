@@ -1350,3 +1350,4 @@
 - [2026-04-09 20:02:00] feat: introduce health check monitor endpoint
 - [2026-04-09 20:03:00] refactor(services): modernize database query construction logic to eliminate code duplication
 - [2026-04-09 20:04:00] feat(router): implement background task processing queue
+- [2026-04-12 20:00:00] feat(core): introduce granular csv and excel data export
