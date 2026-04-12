@@ -1353,3 +1353,4 @@
 - [2026-04-12 20:00:00] feat(core): introduce granular csv and excel data export
 - [2026-04-12 20:01:00] fix(session): eliminate broken layout on responsive viewports during graceful shutdown
 - [2026-04-12 20:02:00] fix(db): resolve unhandled promise rejection in API client
+- [2026-04-12 20:03:00] fix: resolve socket connection timeout on idle
