@@ -575,3 +575,4 @@
 - [2026-04-09 20:02:00] fix(security): resolve stale cache retrieval after entity update
 - [2026-04-09 20:03:00] docs(examples): revise missing troubleshooting section for common setup errors to reflect recent API changes
 - [2026-04-09 20:04:00] refactor(router): simplify shared helper utility functions
+- [2026-04-15 20:00:00] perf(query): reduce frontend asset bundle size
