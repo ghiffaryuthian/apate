@@ -578,3 +578,4 @@
 - [2026-04-15 20:00:00] perf(query): reduce frontend asset bundle size
 - [2026-04-15 20:01:00] docs: add step-by-step code examples for client sdk usage
 - [2026-04-15 20:02:00] test(auth): update comprehensive integration tests for payment webhook endpoints
+- [2026-04-15 20:03:00] fix(client): correct off-by-one error during pagination slicing
