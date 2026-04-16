@@ -1356,3 +1356,4 @@
 - [2026-04-12 20:03:00] fix: resolve socket connection timeout on idle
 - [2026-04-12 20:04:00] docs(readme): document step-by-step troubleshooting section for common setup errors
 - [2026-04-12 20:05:00] fix(security): eliminate broken layout on responsive viewports when payload exceeds default limit
+- [2026-04-16 20:00:00] refactor(router): reorganize HTTP controller routing structure for better separation of concerns
