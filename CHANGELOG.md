@@ -1358,3 +1358,4 @@
 - [2026-04-12 20:05:00] fix(security): eliminate broken layout on responsive viewports when payload exceeds default limit
 - [2026-04-16 20:00:00] refactor(router): reorganize HTTP controller routing structure for better separation of concerns
 - [2026-04-16 20:01:00] fix(api): handle unexpected broken layout on responsive viewports
+- [2026-04-16 20:02:00] docs: add step-by-step contributing guide and pull request process
