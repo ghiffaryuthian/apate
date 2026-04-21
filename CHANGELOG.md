@@ -1367,3 +1367,4 @@
 - [2026-04-21 20:05:00] refactor(services): decouple domain model entity mappings
 - [2026-04-21 20:06:00] feat(auth): introduce websocket subscription channel
 - [2026-04-21 20:07:00] fix: patch unhandled duplicate event dispatching bug
+- [2026-04-21 20:08:00] feat: integrate OAuth2 authentication flow
