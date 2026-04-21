@@ -1362,3 +1362,4 @@
 - [2026-04-21 20:00:00] feat(auth): implement file upload and validation pipeline
 - [2026-04-21 20:01:00] docs: add detailed environment variable configuration reference
 - [2026-04-21 20:02:00] feat: support dark mode theme palette
+- [2026-04-21 20:03:00] fix(worker): handle CORS header mismatch on preflight checks on legacy browser environments
