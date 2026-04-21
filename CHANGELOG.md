@@ -1365,3 +1365,4 @@
 - [2026-04-21 20:03:00] fix(worker): handle CORS header mismatch on preflight checks on legacy browser environments
 - [2026-04-21 20:04:00] style(imports): clean up source code formatting with linter rules
 - [2026-04-21 20:05:00] refactor(services): decouple domain model entity mappings
+- [2026-04-21 20:06:00] feat(auth): introduce websocket subscription channel
