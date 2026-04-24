@@ -586,3 +586,4 @@
 - [2026-04-15 20:08:00] test(utils): expand unit test coverage for authentication service
 - [2026-04-24 20:00:00] test(utils): expand flaky edge case validation tests for string utility
 - [2026-04-24 20:01:00] fix(client): patch null pointer dereference on unauthenticated requests when user session is revoked
+- [2026-04-24 20:02:00] docs(changelog): update step-by-step code examples for client sdk usage for new contributors
