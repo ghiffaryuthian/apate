@@ -1368,3 +1368,4 @@
 - [2026-04-21 20:06:00] feat(auth): introduce websocket subscription channel
 - [2026-04-21 20:07:00] fix: patch unhandled duplicate event dispatching bug
 - [2026-04-21 20:08:00] feat: integrate OAuth2 authentication flow
+- [2026-04-24 20:00:00] chore(release): update unused docker base image to latest alpine release
