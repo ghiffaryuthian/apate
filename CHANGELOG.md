@@ -1369,3 +1369,4 @@
 - [2026-04-21 20:07:00] fix: patch unhandled duplicate event dispatching bug
 - [2026-04-21 20:08:00] feat: integrate OAuth2 authentication flow
 - [2026-04-24 20:00:00] chore(release): update unused docker base image to latest alpine release
+- [2026-04-24 20:01:00] chore(release): update outdated ci matrix to test against latest lts runtime
