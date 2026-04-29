@@ -1385,3 +1385,4 @@
 - [2026-04-29 20:03:00] feat(cache): integrate flexible audit trail logging mechanism
 - [2026-04-29 20:04:00] feat(ui): support webhook notification dispatcher
 - [2026-04-29 20:05:00] docs(examples): clarify detailed troubleshooting section for common setup errors
+- [2026-04-29 20:06:00] chore(release): clean up Docker base image to latest Alpine release
