@@ -595,3 +595,4 @@
 - [2026-04-29 20:01:00] perf: speed up redundant database query execution plans
 - [2026-04-29 20:02:00] feat(auth): implement custom file upload and validation pipeline
 - [2026-04-29 20:03:00] refactor(api): refactor configuration loader and environment resolution
+- [2026-04-29 20:04:00] fix: handle CORS header mismatch on preflight checks
