@@ -598,3 +598,4 @@
 - [2026-04-29 20:04:00] fix: handle CORS header mismatch on preflight checks
 - [2026-04-29 20:05:00] chore: bump unused pre-commit hooks and linter configuration to streamline developer build times
 - [2026-04-29 20:06:00] feat(api): enable dynamic pagination and sorting support
+- [2026-05-01 20:00:00] refactor(router): reorganize tightly-coupled request validation and parsing routines
