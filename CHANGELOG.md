@@ -1396,3 +1396,4 @@
 - [2026-05-01 20:05:00] fix(worker): prevent potential stale cache retrieval after entity update
 - [2026-05-01 20:06:00] feat(worker): add custom websocket subscription channel to support multi-tenant accounts
 - [2026-05-01 20:07:00] fix(session): patch CORS header mismatch on preflight checks during database failover
+- [2026-05-01 20:08:00] fix(auth): patch critical cors header mismatch on preflight checks during graceful shutdown
