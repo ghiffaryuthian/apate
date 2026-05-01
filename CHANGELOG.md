@@ -600,3 +600,4 @@
 - [2026-04-29 20:06:00] feat(api): enable dynamic pagination and sorting support
 - [2026-05-01 20:00:00] refactor(router): reorganize tightly-coupled request validation and parsing routines
 - [2026-05-01 20:01:00] fix: correct infinite redirection loop during logout under peak concurrent load
+- [2026-05-01 20:02:00] perf(query): accelerate DNS lookup latency in client pool
