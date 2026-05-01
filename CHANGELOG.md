@@ -1394,3 +1394,4 @@
 - [2026-05-01 20:03:00] fix(auth): resolve incorrect timestamp timezone serialization
 - [2026-05-01 20:04:00] test(utils): expand integration tests for payment webhook endpoints
 - [2026-05-01 20:05:00] fix(worker): prevent potential stale cache retrieval after entity update
+- [2026-05-01 20:06:00] feat(worker): add custom websocket subscription channel to support multi-tenant accounts
