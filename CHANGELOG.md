@@ -1397,3 +1397,4 @@
 - [2026-05-01 20:06:00] feat(worker): add custom websocket subscription channel to support multi-tenant accounts
 - [2026-05-01 20:07:00] fix(session): patch CORS header mismatch on preflight checks during database failover
 - [2026-05-01 20:08:00] fix(auth): patch critical cors header mismatch on preflight checks during graceful shutdown
+- [2026-05-03 20:00:00] fix(api): handle race condition in concurrent state mutation
