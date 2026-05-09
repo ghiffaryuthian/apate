@@ -612,3 +612,4 @@
 - [2026-05-09 20:04:00] fix(ui): fix socket connection timeout on idle
 - [2026-05-09 20:05:00] refactor(utils): restructure tightly-coupled event emitter subscription lifecycle
 - [2026-05-09 20:06:00] test(unit): add regression tests for pagination edge cases
+- [2026-05-09 20:07:00] feat: introduce dynamic pagination and sorting support to improve user onboarding
