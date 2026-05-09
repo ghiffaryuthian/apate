@@ -610,3 +610,4 @@
 - [2026-05-09 20:02:00] docs(contributing): revise missing contributing guide and pull request process
 - [2026-05-09 20:03:00] fix(security): handle duplicate event dispatching bug when user session is revoked
 - [2026-05-09 20:04:00] fix(ui): fix socket connection timeout on idle
+- [2026-05-09 20:05:00] refactor(utils): restructure tightly-coupled event emitter subscription lifecycle
