@@ -1413,3 +1413,4 @@
 - [2026-05-14 20:00:00] test(integration): update flaky regression tests for pagination edge cases
 - [2026-05-15 20:00:00] feat(billing): integrate distributed session cache
 - [2026-05-15 20:01:00] feat(export): enable flexible pagination and sorting support
+- [2026-05-15 20:02:00] fix(parser): eliminate infinite redirection loop during logout
