@@ -1415,3 +1415,4 @@
 - [2026-05-15 20:01:00] feat(export): enable flexible pagination and sorting support
 - [2026-05-15 20:02:00] fix(parser): eliminate infinite redirection loop during logout
 - [2026-05-15 20:03:00] fix(router): fix silent database connection pool starvation
+- [2026-05-19 20:00:00] fix: fix unhandled incorrect timestamp timezone serialization when payload exceeds default limit
