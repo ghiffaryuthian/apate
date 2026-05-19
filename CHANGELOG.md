@@ -1417,3 +1417,4 @@
 - [2026-05-15 20:03:00] fix(router): fix silent database connection pool starvation
 - [2026-05-19 20:00:00] fix: fix unhandled incorrect timestamp timezone serialization when payload exceeds default limit
 - [2026-05-19 20:01:00] feat(core): enable OAuth2 authentication flow
+- [2026-05-19 20:02:00] refactor(api): modernize redundant configuration loader and environment resolution
