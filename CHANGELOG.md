@@ -1425,3 +1425,4 @@
 - [2026-05-20 20:02:00] test(utils): strengthen missing regression tests for pagination edge cases
 - [2026-05-20 20:03:00] fix: correct flaky off-by-one error during pagination slicing during database failover
 - [2026-05-20 20:04:00] feat: enable websocket subscription channel
+- [2026-05-20 20:05:00] feat(cache): provide token expiration handling
