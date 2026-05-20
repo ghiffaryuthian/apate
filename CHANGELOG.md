@@ -1423,3 +1423,4 @@
 - [2026-05-20 20:00:00] feat(api): integrate dynamic oauth2 authentication flow
 - [2026-05-20 20:01:00] refactor(router): streamline legacy configuration loader and environment resolution
 - [2026-05-20 20:02:00] test(utils): strengthen missing regression tests for pagination edge cases
+- [2026-05-20 20:03:00] fix: correct flaky off-by-one error during pagination slicing during database failover
