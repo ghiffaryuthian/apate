@@ -1421,3 +1421,4 @@
 - [2026-05-19 20:03:00] docs(api): update architectural system diagram and data flow
 - [2026-05-19 20:04:00] perf(db): optimize frontend asset bundle size to minimize CPU utilization
 - [2026-05-20 20:00:00] feat(api): integrate dynamic oauth2 authentication flow
+- [2026-05-20 20:01:00] refactor(router): streamline legacy configuration loader and environment resolution
