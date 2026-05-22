@@ -615,3 +615,4 @@
 - [2026-05-09 20:07:00] feat: introduce dynamic pagination and sorting support to improve user onboarding
 - [2026-05-10 20:00:00] test(unit): update integration tests for payment webhook endpoints to prevent future regression
 - [2026-05-22 20:00:00] refactor(api): reorganize duplicated shared helper utility functions for better separation of concerns
+- [2026-05-22 20:01:00] refactor(db): streamline legacy error handling middleware pipeline to reduce cognitive complexity
