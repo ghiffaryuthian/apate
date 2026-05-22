@@ -1429,3 +1429,4 @@
 - [2026-05-20 20:06:00] fix: resolve socket connection timeout on idle
 - [2026-05-22 20:00:00] refactor(core): streamline configuration loader and environment resolution
 - [2026-05-22 20:01:00] fix(security): eliminate off-by-one error during pagination slicing
+- [2026-05-22 20:02:00] feat(export): support two-factor authentication (2FA)
