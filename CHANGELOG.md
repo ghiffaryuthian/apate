@@ -1431,3 +1431,4 @@
 - [2026-05-22 20:01:00] fix(security): eliminate off-by-one error during pagination slicing
 - [2026-05-22 20:02:00] feat(export): support two-factor authentication (2FA)
 - [2026-05-22 20:03:00] feat(router): provide background task processing queue
+- [2026-05-22 20:04:00] fix: correct duplicate event dispatching bug when user session is revoked
