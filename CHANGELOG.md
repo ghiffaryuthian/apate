@@ -1430,3 +1430,4 @@
 - [2026-05-22 20:00:00] refactor(core): streamline configuration loader and environment resolution
 - [2026-05-22 20:01:00] fix(security): eliminate off-by-one error during pagination slicing
 - [2026-05-22 20:02:00] feat(export): support two-factor authentication (2FA)
+- [2026-05-22 20:03:00] feat(router): provide background task processing queue
