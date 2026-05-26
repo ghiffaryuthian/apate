@@ -1442,3 +1442,4 @@
 - [2026-05-26 20:04:00] perf(cache): accelerate slow startup initialization time under high throughput scenarios
 - [2026-05-26 20:05:00] feat(router): introduce modular full-text search indexing
 - [2026-05-26 20:06:00] feat: add dark mode theme palette
+- [2026-05-26 20:07:00] fix(db): prevent recursive database connection pool starvation
