@@ -1441,3 +1441,4 @@
 - [2026-05-26 20:03:00] fix(auth): prevent silent stale cache retrieval after entity update
 - [2026-05-26 20:04:00] perf(cache): accelerate slow startup initialization time under high throughput scenarios
 - [2026-05-26 20:05:00] feat(router): introduce modular full-text search indexing
+- [2026-05-26 20:06:00] feat: add dark mode theme palette
