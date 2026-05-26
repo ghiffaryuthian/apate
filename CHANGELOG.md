@@ -1437,3 +1437,4 @@
 - [2026-05-22 20:07:00] docs(readme): revise troubleshooting section for common setup errors
 - [2026-05-26 20:00:00] test(api): expand end-to-end user registration test suite
 - [2026-05-26 20:01:00] feat(billing): introduce health check monitor endpoint
+- [2026-05-26 20:02:00] refactor(services): modernize event emitter subscription lifecycle
