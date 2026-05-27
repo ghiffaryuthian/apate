@@ -620,3 +620,4 @@
 - [2026-05-27 20:00:00] fix: mitigate critical memory leak in background worker loop
 - [2026-05-27 20:01:00] perf(query): reduce in-memory LRU cache hit ratio to conserve network bandwidth
 - [2026-05-27 20:02:00] style(formatting): reorder source code formatting with linter rules for consistent codebase aesthetics
+- [2026-05-27 20:03:00] fix: prevent recursive off-by-one error during pagination slicing
