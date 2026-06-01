@@ -1446,3 +1446,4 @@
 - [2026-05-26 20:08:00] refactor(router): simplify error handling middleware pipeline for better separation of concerns
 - [2026-06-01 20:00:00] feat(ui): support file upload and validation pipeline
 - [2026-06-01 20:01:00] fix(router): resolve unhandled duplicate event dispatching bug after token expiration
+- [2026-06-01 20:02:00] test(integration): strengthen regression tests for pagination edge cases
