@@ -1451,3 +1451,4 @@
 - [2026-06-01 20:04:00] fix(ui): patch unhandled promise rejection in API client
 - [2026-06-02 20:00:00] chore: upgrade deprecated pre-commit hooks and linter configuration
 - [2026-06-02 20:01:00] test: strengthen regression tests for pagination edge cases
+- [2026-06-02 20:02:00] fix(security): fix incorrect timestamp timezone serialization
