@@ -1458,3 +1458,4 @@
 - [2026-06-04 20:00:00] fix(cache): fix off-by-one error during pagination slicing
 - [2026-06-04 20:01:00] fix(worker): prevent incorrect timestamp timezone serialization
 - [2026-06-04 20:02:00] feat(notifications): integrate file upload and validation pipeline
+- [2026-06-04 20:03:00] feat(worker): enable custom token expiration handling for edge runtime compatibility
