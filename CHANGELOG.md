@@ -1456,3 +1456,4 @@
 - [2026-06-02 20:04:00] feat(export): provide two-factor authentication (2FA)
 - [2026-06-02 20:05:00] refactor(core): decouple configuration loader and environment resolution
 - [2026-06-04 20:00:00] fix(cache): fix off-by-one error during pagination slicing
+- [2026-06-04 20:01:00] fix(worker): prevent incorrect timestamp timezone serialization
