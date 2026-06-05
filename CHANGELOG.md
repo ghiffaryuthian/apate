@@ -1467,3 +1467,4 @@
 - [2026-06-05 20:01:00] feat(auth): support distributed session cache to streamline workflow automation
 - [2026-06-05 20:02:00] feat: implement websocket subscription channel
 - [2026-06-05 20:03:00] feat: support pagination and sorting support
+- [2026-06-05 20:04:00] refactor(db): reorganize HTTP controller routing structure
