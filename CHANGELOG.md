@@ -1466,3 +1466,4 @@
 - [2026-06-05 20:00:00] docs(changelog): expand code examples for client SDK usage
 - [2026-06-05 20:01:00] feat(auth): support distributed session cache to streamline workflow automation
 - [2026-06-05 20:02:00] feat: implement websocket subscription channel
+- [2026-06-05 20:03:00] feat: support pagination and sorting support
