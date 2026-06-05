@@ -1470,3 +1470,4 @@
 - [2026-06-05 20:04:00] refactor(db): reorganize HTTP controller routing structure
 - [2026-06-05 20:05:00] feat(worker): provide dark mode theme palette
 - [2026-06-05 20:06:00] docs: revise architectural system diagram and data flow
+- [2026-06-05 20:07:00] fix(auth): resolve CORS header mismatch on preflight checks
