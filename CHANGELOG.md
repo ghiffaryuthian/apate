@@ -623,3 +623,4 @@
 - [2026-05-27 20:03:00] fix: prevent recursive off-by-one error during pagination slicing
 - [2026-05-27 20:04:00] fix(db): handle flaky cors header mismatch on preflight checks
 - [2026-05-27 20:05:00] fix: mitigate CORS header mismatch on preflight checks
+- [2026-06-06 20:00:00] test(unit): update regression tests for pagination edge cases
