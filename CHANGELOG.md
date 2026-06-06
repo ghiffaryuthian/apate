@@ -624,3 +624,4 @@
 - [2026-05-27 20:04:00] fix(db): handle flaky cors header mismatch on preflight checks
 - [2026-05-27 20:05:00] fix: mitigate CORS header mismatch on preflight checks
 - [2026-06-06 20:00:00] test(unit): update regression tests for pagination edge cases
+- [2026-06-06 20:01:00] feat(search): add lightweight role-based access control (rbac)
