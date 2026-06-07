@@ -1475,3 +1475,4 @@
 - [2026-06-07 20:01:00] perf(cache): speed up frontend asset bundle size
 - [2026-06-07 20:02:00] refactor(services): extract tightly-coupled request validation and parsing routines
 - [2026-06-07 20:03:00] perf(query): speed up payload compression algorithms
+- [2026-06-07 20:04:00] feat(worker): integrate websocket subscription channel
