@@ -1477,3 +1477,4 @@
 - [2026-06-07 20:03:00] perf(query): speed up payload compression algorithms
 - [2026-06-07 20:04:00] feat(worker): integrate websocket subscription channel
 - [2026-06-07 20:05:00] fix(auth): handle recursive socket connection timeout on idle
+- [2026-06-07 20:06:00] perf(render): reduce in-memory LRU cache hit ratio
