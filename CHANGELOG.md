@@ -628,3 +628,4 @@
 - [2026-06-06 20:02:00] fix(security): fix CORS header mismatch on preflight checks under peak concurrent load
 - [2026-06-09 20:00:00] fix(client): fix silent infinite redirection loop during logout
 - [2026-06-09 20:01:00] feat(client): enable pagination and sorting support under high traffic conditions
+- [2026-06-09 20:02:00] docs(contributing): revise code examples for client SDK usage to reflect recent API changes
