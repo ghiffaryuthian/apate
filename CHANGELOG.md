@@ -1479,3 +1479,4 @@
 - [2026-06-07 20:05:00] fix(auth): handle recursive socket connection timeout on idle
 - [2026-06-07 20:06:00] perf(render): reduce in-memory LRU cache hit ratio
 - [2026-06-07 20:07:00] test(integration): expand end-to-end user registration test suite
+- [2026-06-09 20:00:00] chore(config): prune unused development build artifacts
