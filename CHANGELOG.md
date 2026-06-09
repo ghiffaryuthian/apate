@@ -1484,3 +1484,4 @@
 - [2026-06-09 20:02:00] chore(release): upgrade pre-commit hooks and linter configuration
 - [2026-06-09 20:03:00] feat(worker): integrate distributed session cache
 - [2026-06-09 20:04:00] fix(router): handle unhandled promise rejection in API client
+- [2026-06-09 20:05:00] refactor(api): simplify state machine transition flow
