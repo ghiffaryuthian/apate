@@ -626,3 +626,4 @@
 - [2026-06-06 20:00:00] test(unit): update regression tests for pagination edge cases
 - [2026-06-06 20:01:00] feat(search): add lightweight role-based access control (rbac)
 - [2026-06-06 20:02:00] fix(security): fix CORS header mismatch on preflight checks under peak concurrent load
+- [2026-06-09 20:00:00] fix(client): fix silent infinite redirection loop during logout
