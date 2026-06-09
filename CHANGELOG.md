@@ -1483,3 +1483,4 @@
 - [2026-06-09 20:01:00] feat(auth): enable dynamic two-factor authentication (2fa) for third-party integrations
 - [2026-06-09 20:02:00] chore(release): upgrade pre-commit hooks and linter configuration
 - [2026-06-09 20:03:00] feat(worker): integrate distributed session cache
+- [2026-06-09 20:04:00] fix(router): handle unhandled promise rejection in API client
