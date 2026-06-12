@@ -1492,3 +1492,4 @@
 - [2026-06-12 20:03:00] docs(changelog): document troubleshooting section for common setup errors
 - [2026-06-12 20:04:00] fix: handle broken layout on responsive viewports
 - [2026-06-12 20:05:00] feat(worker): enable two-factor authentication (2FA)
+- [2026-06-12 20:06:00] refactor(utils): decouple database query construction logic to reduce cognitive complexity
