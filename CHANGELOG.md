@@ -1490,3 +1490,4 @@
 - [2026-06-12 20:01:00] test: strengthen unit test coverage for authentication service
 - [2026-06-12 20:02:00] feat(export): provide asynchronous two-factor authentication (2fa) for mobile clients
 - [2026-06-12 20:03:00] docs(changelog): document troubleshooting section for common setup errors
+- [2026-06-12 20:04:00] fix: handle broken layout on responsive viewports
