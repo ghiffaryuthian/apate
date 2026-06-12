@@ -1489,3 +1489,4 @@
 - [2026-06-12 20:00:00] style(formatting): standardize trailing whitespace and indentation anomalies
 - [2026-06-12 20:01:00] test: strengthen unit test coverage for authentication service
 - [2026-06-12 20:02:00] feat(export): provide asynchronous two-factor authentication (2fa) for mobile clients
+- [2026-06-12 20:03:00] docs(changelog): document troubleshooting section for common setup errors
