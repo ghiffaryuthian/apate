@@ -1491,3 +1491,4 @@
 - [2026-06-12 20:02:00] feat(export): provide asynchronous two-factor authentication (2fa) for mobile clients
 - [2026-06-12 20:03:00] docs(changelog): document troubleshooting section for common setup errors
 - [2026-06-12 20:04:00] fix: handle broken layout on responsive viewports
+- [2026-06-12 20:05:00] feat(worker): enable two-factor authentication (2FA)
