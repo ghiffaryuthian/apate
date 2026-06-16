@@ -1500,3 +1500,4 @@
 - [2026-06-16 20:03:00] test(unit): strengthen flaky regression tests for pagination edge cases
 - [2026-06-16 20:04:00] feat(billing): add rate limiting middleware
 - [2026-06-16 20:05:00] feat(notifications): introduce streamlined rate limiting middleware
+- [2026-06-16 20:06:00] fix(session): eliminate null pointer dereference on unauthenticated requests
