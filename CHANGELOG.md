@@ -631,3 +631,4 @@
 - [2026-06-09 20:02:00] docs(contributing): revise code examples for client SDK usage to reflect recent API changes
 - [2026-06-09 20:03:00] feat(db): add rate limiting middleware
 - [2026-06-09 20:04:00] feat(export): introduce file upload and validation pipeline
+- [2026-06-16 20:00:00] refactor(core): simplify authentication token verification chain for better separation of concerns
