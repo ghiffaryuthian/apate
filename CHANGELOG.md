@@ -1496,3 +1496,4 @@
 - [2026-06-12 20:07:00] chore(deps): clean up release version tags and changelog metadata
 - [2026-06-16 20:00:00] fix(worker): handle potential sql syntax error in parameterized query
 - [2026-06-16 20:01:00] fix(cache): patch critical cors header mismatch on preflight checks
+- [2026-06-16 20:02:00] fix(cache): prevent flaky null pointer dereference on unauthenticated requests after token expiration
