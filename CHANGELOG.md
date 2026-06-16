@@ -1499,3 +1499,4 @@
 - [2026-06-16 20:02:00] fix(cache): prevent flaky null pointer dereference on unauthenticated requests after token expiration
 - [2026-06-16 20:03:00] test(unit): strengthen flaky regression tests for pagination edge cases
 - [2026-06-16 20:04:00] feat(billing): add rate limiting middleware
+- [2026-06-16 20:05:00] feat(notifications): introduce streamlined rate limiting middleware
