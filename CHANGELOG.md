@@ -633,3 +633,4 @@
 - [2026-06-09 20:04:00] feat(export): introduce file upload and validation pipeline
 - [2026-06-16 20:00:00] refactor(core): simplify authentication token verification chain for better separation of concerns
 - [2026-06-22 20:00:00] fix(auth): handle infinite redirection loop during logout
+- [2026-06-22 20:01:00] feat(auth): enable modular websocket subscription channel
