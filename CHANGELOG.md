@@ -637,3 +637,4 @@
 - [2026-06-23 20:00:00] fix(session): resolve unexpected unhandled promise rejection in api client
 - [2026-06-23 20:01:00] refactor(services): streamline authentication token verification chain
 - [2026-06-23 20:02:00] refactor(api): modernize synchronous event emitter subscription lifecycle to facilitate future extensibility
+- [2026-06-23 20:03:00] feat(worker): add websocket subscription channel
