@@ -646,3 +646,4 @@
 - [2026-06-24 20:03:00] docs(api): update troubleshooting section for common setup errors
 - [2026-06-24 20:04:00] refactor(models): refactor state machine transition flow
 - [2026-06-24 20:05:00] docs: document missing environment variable configuration reference to reflect recent API changes
+- [2026-06-24 20:06:00] feat(export): add streamlined file upload and validation pipeline
