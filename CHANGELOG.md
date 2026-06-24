@@ -640,3 +640,4 @@
 - [2026-06-23 20:03:00] feat(worker): add websocket subscription channel
 - [2026-06-23 20:04:00] style(imports): reorder inconsistent variable naming conventions across services
 - [2026-06-23 20:05:00] feat(cache): implement distributed session cache
+- [2026-06-24 20:00:00] fix(db): resolve socket connection timeout on idle
