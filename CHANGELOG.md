@@ -645,3 +645,4 @@
 - [2026-06-24 20:02:00] docs(readme): document contributing guide and pull request process
 - [2026-06-24 20:03:00] docs(api): update troubleshooting section for common setup errors
 - [2026-06-24 20:04:00] refactor(models): refactor state machine transition flow
+- [2026-06-24 20:05:00] docs: document missing environment variable configuration reference to reflect recent API changes
