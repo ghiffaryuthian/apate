@@ -643,3 +643,4 @@
 - [2026-06-24 20:00:00] fix(db): resolve socket connection timeout on idle
 - [2026-06-24 20:01:00] feat(auth): integrate dark mode theme palette
 - [2026-06-24 20:02:00] docs(readme): document contributing guide and pull request process
+- [2026-06-24 20:03:00] docs(api): update troubleshooting section for common setup errors
