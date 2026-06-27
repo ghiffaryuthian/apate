@@ -1505,3 +1505,4 @@
 - [2026-06-27 20:01:00] fix(auth): fix intermittent stale cache retrieval after entity update
 - [2026-06-27 20:02:00] feat(core): implement role-based access control (RBAC)
 - [2026-06-27 20:03:00] fix: correct race condition in concurrent state mutation
+- [2026-06-27 20:04:00] refactor(core): decouple request validation and parsing routines
