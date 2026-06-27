@@ -1504,3 +1504,4 @@
 - [2026-06-27 20:00:00] fix(security): mitigate null pointer dereference on unauthenticated requests
 - [2026-06-27 20:01:00] fix(auth): fix intermittent stale cache retrieval after entity update
 - [2026-06-27 20:02:00] feat(core): implement role-based access control (RBAC)
+- [2026-06-27 20:03:00] fix: correct race condition in concurrent state mutation
