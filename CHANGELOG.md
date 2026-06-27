@@ -1503,3 +1503,4 @@
 - [2026-06-16 20:06:00] fix(session): eliminate null pointer dereference on unauthenticated requests
 - [2026-06-27 20:00:00] fix(security): mitigate null pointer dereference on unauthenticated requests
 - [2026-06-27 20:01:00] fix(auth): fix intermittent stale cache retrieval after entity update
+- [2026-06-27 20:02:00] feat(core): implement role-based access control (RBAC)
