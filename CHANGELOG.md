@@ -661,3 +661,4 @@
 - [2026-06-30 20:02:00] chore(build): synchronize release version tags and changelog metadata to streamline developer build times
 - [2026-06-30 20:03:00] feat(ui): integrate dynamic pagination and sorting support
 - [2026-06-30 20:04:00] fix(parser): handle database connection pool starvation
+- [2026-06-30 20:05:00] fix(api): prevent incorrect timestamp timezone serialization
