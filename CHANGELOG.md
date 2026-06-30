@@ -1512,3 +1512,4 @@
 - [2026-06-28 20:03:00] refactor(utils): refactor database query construction logic for better readability and maintainability
 - [2026-06-30 20:00:00] refactor(auth): decouple synchronous error handling middleware pipeline
 - [2026-06-30 20:01:00] docs: update installation and setup instructions in README
+- [2026-06-30 20:02:00] fix(api): eliminate unexpected duplicate event dispatching bug
