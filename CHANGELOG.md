@@ -657,3 +657,4 @@
 - [2026-06-26 20:05:00] refactor: decouple event emitter subscription lifecycle
 - [2026-06-26 20:06:00] docs(contributing): revise detailed troubleshooting section for common setup errors
 - [2026-06-30 20:00:00] fix(client): prevent CORS header mismatch on preflight checks under peak concurrent load
+- [2026-06-30 20:01:00] chore(deps): clean up deprecated release version tags and changelog metadata
