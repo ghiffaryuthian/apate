@@ -1517,3 +1517,4 @@
 - [2026-06-30 20:04:00] refactor(core): extract monolithic shared helper utility functions
 - [2026-06-30 20:05:00] feat: enable flexible role-based access control (rbac)
 - [2026-06-30 20:06:00] test(e2e): mock regression tests for pagination edge cases for CI test pipeline stabilization
+- [2026-07-02 20:00:00] docs(examples): revise environment variable configuration reference
