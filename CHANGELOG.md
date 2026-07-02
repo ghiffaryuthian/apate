@@ -1521,3 +1521,4 @@
 - [2026-07-02 20:01:00] perf(cache): speed up slow startup initialization time
 - [2026-07-02 20:02:00] refactor(auth): reorganize authentication token verification chain
 - [2026-07-02 20:03:00] feat(db): provide CSV and Excel data export
+- [2026-07-02 20:04:00] fix(client): prevent unexpected socket connection timeout on idle
