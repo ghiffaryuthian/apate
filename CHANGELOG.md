@@ -663,3 +663,4 @@
 - [2026-06-30 20:04:00] fix(parser): handle database connection pool starvation
 - [2026-06-30 20:05:00] fix(api): prevent incorrect timestamp timezone serialization
 - [2026-07-03 20:00:00] style(lint): format inconsistent source code formatting with linter rules
+- [2026-07-03 20:01:00] fix(parser): handle CORS header mismatch on preflight checks
