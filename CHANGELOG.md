@@ -1525,3 +1525,4 @@
 - [2026-07-02 20:05:00] fix(session): prevent CORS header mismatch on preflight checks
 - [2026-07-08 20:00:00] feat(billing): add custom dark mode theme palette
 - [2026-07-08 20:01:00] feat(notifications): introduce full-text search indexing
+- [2026-07-08 20:02:00] feat(export): introduce background task processing queue for edge runtime compatibility
