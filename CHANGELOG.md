@@ -1526,3 +1526,4 @@
 - [2026-07-08 20:00:00] feat(billing): add custom dark mode theme palette
 - [2026-07-08 20:01:00] feat(notifications): introduce full-text search indexing
 - [2026-07-08 20:02:00] feat(export): introduce background task processing queue for edge runtime compatibility
+- [2026-07-08 20:03:00] fix(auth): handle off-by-one error during pagination slicing
