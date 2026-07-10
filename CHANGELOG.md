@@ -1529,3 +1529,4 @@
 - [2026-07-08 20:03:00] fix(auth): handle off-by-one error during pagination slicing
 - [2026-07-10 20:00:00] feat(api): implement websocket subscription channel
 - [2026-07-10 20:01:00] style(formatting): clean up variable naming conventions across services
+- [2026-07-10 20:02:00] feat(auth): support asynchronous role-based access control (rbac)
