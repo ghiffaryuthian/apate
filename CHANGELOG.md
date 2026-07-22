@@ -680,3 +680,4 @@
 - [2026-07-22 20:03:00] perf(db): speed up payload compression algorithms
 - [2026-07-22 20:04:00] refactor(auth): decouple complex http controller routing structure
 - [2026-07-22 20:05:00] feat(db): provide webhook notification dispatcher to support multi-tenant accounts
+- [2026-07-22 20:06:00] fix(parser): handle database connection pool starvation
