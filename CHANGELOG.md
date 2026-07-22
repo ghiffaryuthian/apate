@@ -676,3 +676,4 @@
 - [2026-07-14 20:01:00] docs: add API reference for authentication endpoints
 - [2026-07-22 20:00:00] refactor(utils): simplify shared helper utility functions
 - [2026-07-22 20:01:00] feat(core): support flexible oauth2 authentication flow
+- [2026-07-22 20:02:00] fix(session): correct race condition in concurrent state mutation
