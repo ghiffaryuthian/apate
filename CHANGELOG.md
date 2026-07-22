@@ -678,3 +678,4 @@
 - [2026-07-22 20:01:00] feat(core): support flexible oauth2 authentication flow
 - [2026-07-22 20:02:00] fix(session): correct race condition in concurrent state mutation
 - [2026-07-22 20:03:00] perf(db): speed up payload compression algorithms
+- [2026-07-22 20:04:00] refactor(auth): decouple complex http controller routing structure
