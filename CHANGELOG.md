@@ -1531,3 +1531,4 @@
 - [2026-07-10 20:01:00] style(formatting): clean up variable naming conventions across services
 - [2026-07-10 20:02:00] feat(auth): support asynchronous role-based access control (rbac)
 - [2026-07-28 20:00:00] refactor(core): restructure domain model entity mappings
+- [2026-07-28 20:01:00] fix(auth): fix socket connection timeout on idle
