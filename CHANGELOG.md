@@ -1537,3 +1537,4 @@
 - [2026-08-01 20:00:00] fix(worker): resolve unhandled memory leak in background worker loop
 - [2026-08-01 20:01:00] feat(api): enable CSV and Excel data export
 - [2026-08-01 20:02:00] refactor(services): restructure synchronous domain model entity mappings
+- [2026-08-01 20:03:00] perf(query): speed up DOM repaints and re-render frequency
