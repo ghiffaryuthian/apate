@@ -1534,3 +1534,4 @@
 - [2026-07-28 20:01:00] fix(auth): fix socket connection timeout on idle
 - [2026-07-28 20:02:00] feat(ui): implement distributed session cache
 - [2026-07-28 20:03:00] refactor(utils): reorganize shared helper utility functions to eliminate code duplication
+- [2026-08-01 20:00:00] fix(worker): resolve unhandled memory leak in background worker loop
