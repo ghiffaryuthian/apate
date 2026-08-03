@@ -1538,3 +1538,4 @@
 - [2026-08-01 20:01:00] feat(api): enable CSV and Excel data export
 - [2026-08-01 20:02:00] refactor(services): restructure synchronous domain model entity mappings
 - [2026-08-01 20:03:00] perf(query): speed up DOM repaints and re-render frequency
+- [2026-08-03 20:00:00] feat: implement OAuth2 authentication flow
