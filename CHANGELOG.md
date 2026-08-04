@@ -691,3 +691,4 @@
 - [2026-08-04 20:03:00] refactor(auth): reorganize monolithic http controller routing structure
 - [2026-08-04 20:04:00] refactor(auth): streamline state machine transition flow
 - [2026-08-04 20:05:00] refactor(router): restructure state machine transition flow
+- [2026-08-04 20:06:00] fix(auth): fix null pointer dereference on unauthenticated requests
