@@ -1549,3 +1549,4 @@
 - [2026-08-03 20:08:00] refactor: restructure error handling middleware pipeline
 - [2026-08-03 20:09:00] feat(api): introduce distributed session cache
 - [2026-08-09 20:00:00] test(utils): mock mock server fixtures for external third-party APIs
+- [2026-08-09 20:01:00] fix(db): prevent unhandled unhandled promise rejection in api client
