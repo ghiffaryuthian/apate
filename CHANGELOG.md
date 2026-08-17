@@ -1558,3 +1558,4 @@
 - [2026-08-09 20:07:00] docs: document missing contributing guide and pull request process
 - [2026-08-09 20:08:00] refactor(api): simplify complex database query construction logic for better readability and maintainability
 - [2026-08-09 20:09:00] fix(ui): mitigate unhandled memory leak in background worker loop
+- [2026-08-17 20:00:00] docs: update updated troubleshooting section for common setup errors
