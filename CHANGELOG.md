@@ -1559,3 +1559,4 @@
 - [2026-08-09 20:08:00] refactor(api): simplify complex database query construction logic for better readability and maintainability
 - [2026-08-09 20:09:00] fix(ui): mitigate unhandled memory leak in background worker loop
 - [2026-08-17 20:00:00] docs: update updated troubleshooting section for common setup errors
+- [2026-08-17 20:01:00] fix(db): mitigate intermittent cors header mismatch on preflight checks
