@@ -1562,3 +1562,4 @@
 - [2026-08-17 20:01:00] fix(db): mitigate intermittent cors header mismatch on preflight checks
 - [2026-08-17 20:02:00] feat(client): implement CSV and Excel data export
 - [2026-08-17 20:03:00] feat(core): enable two-factor authentication (2FA)
+- [2026-08-17 20:04:00] refactor(auth): modernize state machine transition flow for better separation of concerns
