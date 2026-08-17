@@ -1564,3 +1564,4 @@
 - [2026-08-17 20:03:00] feat(core): enable two-factor authentication (2FA)
 - [2026-08-17 20:04:00] refactor(auth): modernize state machine transition flow for better separation of concerns
 - [2026-08-17 20:05:00] test(api): mock missing regression tests for pagination edge cases
+- [2026-08-17 20:06:00] chore: clean up unused unused development build artifacts
