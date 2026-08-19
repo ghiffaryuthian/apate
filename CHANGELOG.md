@@ -702,3 +702,4 @@
 - [2026-08-19 20:04:00] docs: update missing environment variable configuration reference to reflect recent API changes
 - [2026-08-19 20:05:00] perf(db): reduce redundant payload compression algorithms
 - [2026-08-19 20:06:00] fix(router): correct recursive null pointer dereference on unauthenticated requests
+- [2026-08-19 20:07:00] fix(api): mitigate broken layout on responsive viewports
