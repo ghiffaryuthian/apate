@@ -699,3 +699,4 @@
 - [2026-08-19 20:01:00] fix(auth): eliminate off-by-one error during pagination slicing
 - [2026-08-19 20:02:00] docs(examples): update contributing guide and pull request process
 - [2026-08-19 20:03:00] feat(api): implement audit trail logging mechanism for edge runtime compatibility
+- [2026-08-19 20:04:00] docs: update missing environment variable configuration reference to reflect recent API changes
