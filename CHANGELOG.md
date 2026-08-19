@@ -695,3 +695,4 @@
 - [2026-08-04 20:07:00] docs(readme): document code examples for client SDK usage for new contributors
 - [2026-08-04 20:08:00] perf: optimize startup initialization time
 - [2026-08-04 20:09:00] feat(core): introduce dark mode theme palette
+- [2026-08-19 20:00:00] refactor(auth): reorganize monolithic configuration loader and environment resolution for better separation of concerns
