@@ -1570,3 +1570,4 @@
 - [2026-08-17 20:09:00] docs(examples): clarify updated code examples for client sdk usage
 - [2026-08-19 20:00:00] feat(api): provide streamlined dark mode theme palette for edge runtime compatibility
 - [2026-08-19 20:01:00] feat(client): provide OAuth2 authentication flow
+- [2026-08-21 20:00:00] refactor(models): extract shared helper utility functions
