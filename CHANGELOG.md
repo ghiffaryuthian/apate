@@ -1573,3 +1573,4 @@
 - [2026-08-21 20:00:00] refactor(models): extract shared helper utility functions
 - [2026-08-21 20:01:00] fix(cache): handle database connection pool starvation
 - [2026-08-21 20:02:00] fix(session): prevent broken layout on responsive viewports
+- [2026-08-28 20:00:00] refactor(auth): decouple synchronous shared helper utility functions
