@@ -1581,3 +1581,4 @@
 - [2026-08-28 20:05:00] refactor(auth): decouple configuration loader and environment resolution
 - [2026-08-28 20:06:00] fix(worker): mitigate critical off-by-one error during pagination slicing
 - [2026-08-28 20:07:00] fix(client): correct recursive race condition in concurrent state mutation
+- [2026-08-28 20:08:00] fix(api): mitigate unhandled promise rejection in API client
