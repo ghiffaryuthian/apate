@@ -1575,3 +1575,4 @@
 - [2026-08-21 20:02:00] fix(session): prevent broken layout on responsive viewports
 - [2026-08-28 20:00:00] refactor(auth): decouple synchronous shared helper utility functions
 - [2026-08-28 20:01:00] fix(worker): correct flaky stale cache retrieval after entity update during database failover
+- [2026-08-28 20:02:00] fix(router): eliminate incorrect timestamp timezone serialization during database failover
