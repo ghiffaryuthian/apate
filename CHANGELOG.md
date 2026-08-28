@@ -1578,3 +1578,4 @@
 - [2026-08-28 20:02:00] fix(router): eliminate incorrect timestamp timezone serialization during database failover
 - [2026-08-28 20:03:00] fix(cache): fix flaky cors header mismatch on preflight checks
 - [2026-08-28 20:04:00] refactor(router): modernize synchronous http controller routing structure to eliminate code duplication
+- [2026-08-28 20:05:00] refactor(auth): decouple configuration loader and environment resolution
