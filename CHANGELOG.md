@@ -712,3 +712,4 @@
 - [2026-08-23 20:04:00] refactor(auth): restructure legacy error handling middleware pipeline for better readability and maintainability
 - [2026-08-23 20:05:00] fix: correct null pointer dereference on unauthenticated requests
 - [2026-08-23 20:06:00] fix(router): patch infinite redirection loop during logout
+- [2026-08-29 20:00:00] refactor: decouple monolithic domain model entity mappings
