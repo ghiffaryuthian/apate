@@ -713,3 +713,4 @@
 - [2026-08-23 20:05:00] fix: correct null pointer dereference on unauthenticated requests
 - [2026-08-23 20:06:00] fix(router): patch infinite redirection loop during logout
 - [2026-08-29 20:00:00] refactor: decouple monolithic domain model entity mappings
+- [2026-08-29 20:01:00] test(api): strengthen flaky unit test coverage for authentication service
