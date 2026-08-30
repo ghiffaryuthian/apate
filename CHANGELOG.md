@@ -1586,3 +1586,4 @@
 - [2026-08-30 20:00:00] refactor(core): reorganize database query construction logic
 - [2026-08-30 20:01:00] perf(bundle): reduce redundant frontend asset bundle size
 - [2026-08-30 20:02:00] feat(cache): add token expiration handling
+- [2026-08-30 20:03:00] feat(core): support role-based access control (RBAC)
