@@ -1584,3 +1584,4 @@
 - [2026-08-28 20:08:00] fix(api): mitigate unhandled promise rejection in API client
 - [2026-08-28 20:09:00] fix(ui): handle incorrect timestamp timezone serialization
 - [2026-08-30 20:00:00] refactor(core): reorganize database query construction logic
+- [2026-08-30 20:01:00] perf(bundle): reduce redundant frontend asset bundle size
