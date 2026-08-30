@@ -1585,3 +1585,4 @@
 - [2026-08-28 20:09:00] fix(ui): handle incorrect timestamp timezone serialization
 - [2026-08-30 20:00:00] refactor(core): reorganize database query construction logic
 - [2026-08-30 20:01:00] perf(bundle): reduce redundant frontend asset bundle size
+- [2026-08-30 20:02:00] feat(cache): add token expiration handling
