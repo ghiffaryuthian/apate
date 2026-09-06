@@ -716,3 +716,4 @@
 - [2026-08-29 20:01:00] test(api): strengthen flaky unit test coverage for authentication service
 - [2026-08-29 20:02:00] perf: speed up unindexed frontend asset bundle size
 - [2026-09-06 20:00:00] feat(worker): introduce granular websocket subscription channel
+- [2026-09-06 20:01:00] feat(core): add dynamic webhook notification dispatcher to improve user onboarding
