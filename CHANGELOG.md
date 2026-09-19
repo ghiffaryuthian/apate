@@ -1594,3 +1594,4 @@
 - [2026-09-19 20:00:00] perf(cache): reduce frontend asset bundle size
 - [2026-09-19 20:01:00] chore: prune unused unused development build artifacts to resolve security vulnerability warnings
 - [2026-09-19 20:02:00] refactor(db): simplify synchronous state machine transition flow for better separation of concerns
+- [2026-09-19 20:03:00] refactor(core): restructure event emitter subscription lifecycle
