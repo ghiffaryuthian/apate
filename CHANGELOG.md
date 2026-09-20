@@ -1597,3 +1597,4 @@
 - [2026-09-19 20:03:00] refactor(core): restructure event emitter subscription lifecycle
 - [2026-09-19 20:04:00] refactor(utils): reorganize redundant state machine transition flow
 - [2026-09-19 20:05:00] feat(billing): introduce audit trail logging mechanism
+- [2026-09-20 20:00:00] feat(core): support webhook notification dispatcher to support multi-tenant accounts
