@@ -1608,3 +1608,4 @@
 - [2026-09-22 20:00:00] feat(api): support real-time dark mode theme palette
 - [2026-09-22 20:01:00] feat(core): support dynamic websocket subscription channel
 - [2026-09-22 20:02:00] style(imports): clean up source code formatting with linter rules
+- [2026-09-22 20:03:00] feat(cache): enable lightweight csv and excel data export
