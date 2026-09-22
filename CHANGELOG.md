@@ -1609,3 +1609,4 @@
 - [2026-09-22 20:01:00] feat(core): support dynamic websocket subscription channel
 - [2026-09-22 20:02:00] style(imports): clean up source code formatting with linter rules
 - [2026-09-22 20:03:00] feat(cache): enable lightweight csv and excel data export
+- [2026-09-22 20:04:00] fix(cache): fix potential duplicate event dispatching bug when user session is revoked
