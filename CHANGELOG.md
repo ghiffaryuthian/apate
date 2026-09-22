@@ -1606,3 +1606,4 @@
 - [2026-09-20 20:06:00] perf(cache): optimize heavy dns lookup latency in client pool
 - [2026-09-20 20:07:00] style(formatting): clean up import statements across module boundaries
 - [2026-09-22 20:00:00] feat(api): support real-time dark mode theme palette
+- [2026-09-22 20:01:00] feat(core): support dynamic websocket subscription channel
