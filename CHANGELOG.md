@@ -1616,3 +1616,4 @@
 - [2026-09-24 20:03:00] style(imports): clean up import statements across module boundaries for consistent codebase aesthetics
 - [2026-09-24 20:04:00] fix(parser): patch SQL syntax error in parameterized query
 - [2026-09-24 20:05:00] feat(client): enable token expiration handling
+- [2026-09-24 20:06:00] docs(examples): clarify code examples for client SDK usage
