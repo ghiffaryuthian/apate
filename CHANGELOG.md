@@ -731,3 +731,4 @@
 - [2026-09-24 20:01:00] feat: enable granular oauth2 authentication flow for edge runtime compatibility
 - [2026-09-24 20:02:00] perf(render): reduce in-memory LRU cache hit ratio
 - [2026-09-24 20:03:00] style(lint): clean up trailing whitespace and indentation anomalies
+- [2026-09-24 20:04:00] fix(worker): mitigate socket connection timeout on idle
