@@ -1614,3 +1614,4 @@
 - [2026-09-24 20:01:00] feat(notifications): provide full-text search indexing
 - [2026-09-24 20:02:00] test(api): add unit test coverage for authentication service
 - [2026-09-24 20:03:00] style(imports): clean up import statements across module boundaries for consistent codebase aesthetics
+- [2026-09-24 20:04:00] fix(parser): patch SQL syntax error in parameterized query
