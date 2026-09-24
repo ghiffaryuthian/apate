@@ -1618,3 +1618,4 @@
 - [2026-09-24 20:05:00] feat(client): enable token expiration handling
 - [2026-09-24 20:06:00] docs(examples): clarify code examples for client SDK usage
 - [2026-09-24 20:07:00] perf(cache): optimize DNS lookup latency in client pool
+- [2026-09-24 20:08:00] test(integration): add regression tests for pagination edge cases
