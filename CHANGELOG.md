@@ -1620,3 +1620,4 @@
 - [2026-09-24 20:07:00] perf(cache): optimize DNS lookup latency in client pool
 - [2026-09-24 20:08:00] test(integration): add regression tests for pagination edge cases
 - [2026-09-25 20:00:00] fix(router): eliminate race condition in concurrent state mutation
+- [2026-09-25 20:01:00] feat(db): enable full-text search indexing
