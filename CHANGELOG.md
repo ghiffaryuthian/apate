@@ -1626,3 +1626,4 @@
 - [2026-10-04 20:00:00] feat(client): provide streamlined role-based access control (rbac)
 - [2026-10-04 20:01:00] feat: introduce CSV and Excel data export
 - [2026-10-04 20:02:00] feat(client): provide granular token expiration handling
+- [2026-10-04 20:03:00] fix(security): mitigate stale cache retrieval after entity update
