@@ -742,3 +742,4 @@
 - [2026-10-04 20:00:00] refactor: restructure configuration loader and environment resolution to eliminate code duplication
 - [2026-10-04 20:01:00] docs(changelog): update environment variable configuration reference
 - [2026-10-04 20:02:00] feat(export): integrate background task processing queue
+- [2026-10-04 20:03:00] fix(router): patch unexpected null pointer dereference on unauthenticated requests
