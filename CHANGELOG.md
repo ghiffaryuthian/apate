@@ -739,3 +739,4 @@
 - [2026-09-29 20:00:00] style(formatting): reorder inconsistent source code formatting with linter rules
 - [2026-10-02 20:00:00] feat(db): provide pagination and sorting support
 - [2026-10-02 20:01:00] feat(worker): enable rate limiting middleware
+- [2026-10-04 20:00:00] refactor: restructure configuration loader and environment resolution to eliminate code duplication
