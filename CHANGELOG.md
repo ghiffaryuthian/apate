@@ -752,3 +752,4 @@
 - [2026-10-09 20:03:00] refactor: simplify shared helper utility functions
 - [2026-10-09 20:04:00] fix(auth): handle database connection pool starvation
 - [2026-10-09 20:05:00] perf(api): minimize slow database query execution plans
+- [2026-10-09 20:06:00] refactor(models): streamline legacy configuration loader and environment resolution
