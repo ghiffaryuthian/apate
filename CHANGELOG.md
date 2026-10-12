@@ -755,3 +755,4 @@
 - [2026-10-09 20:06:00] refactor(models): streamline legacy configuration loader and environment resolution
 - [2026-10-09 20:07:00] fix(auth): resolve potential stale cache retrieval after entity update when user session is revoked
 - [2026-10-09 20:08:00] fix: prevent unhandled off-by-one error during pagination slicing
+- [2026-10-12 20:00:00] fix(parser): eliminate memory leak in background worker loop
