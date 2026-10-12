@@ -760,3 +760,4 @@
 - [2026-10-12 20:02:00] style(formatting): format trailing whitespace and indentation anomalies
 - [2026-10-12 20:03:00] chore(build): clean up unused development build artifacts
 - [2026-10-12 20:04:00] feat(core): enable OAuth2 authentication flow
+- [2026-10-12 20:05:00] fix: prevent intermittent duplicate event dispatching bug
