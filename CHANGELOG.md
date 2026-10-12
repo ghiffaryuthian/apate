@@ -758,3 +758,4 @@
 - [2026-10-12 20:00:00] fix(parser): eliminate memory leak in background worker loop
 - [2026-10-12 20:01:00] feat(search): introduce role-based access control (RBAC)
 - [2026-10-12 20:02:00] style(formatting): format trailing whitespace and indentation anomalies
+- [2026-10-12 20:03:00] chore(build): clean up unused development build artifacts
