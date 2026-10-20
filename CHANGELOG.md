@@ -765,3 +765,4 @@
 - [2026-10-20 20:01:00] perf(bundle): reduce slow dom repaints and re-render frequency
 - [2026-10-20 20:02:00] refactor(db): decouple database query construction logic
 - [2026-10-20 20:03:00] fix(session): resolve intermittent duplicate event dispatching bug during graceful shutdown
+- [2026-10-20 20:04:00] fix(auth): prevent incorrect timestamp timezone serialization
