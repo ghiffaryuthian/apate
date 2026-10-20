@@ -767,3 +767,4 @@
 - [2026-10-20 20:03:00] fix(session): resolve intermittent duplicate event dispatching bug during graceful shutdown
 - [2026-10-20 20:04:00] fix(auth): prevent incorrect timestamp timezone serialization
 - [2026-10-20 20:05:00] fix(router): patch unexpected null pointer dereference on unauthenticated requests
+- [2026-10-20 20:06:00] fix: fix CORS header mismatch on preflight checks
