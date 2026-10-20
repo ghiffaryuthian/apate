@@ -769,3 +769,4 @@
 - [2026-10-20 20:05:00] fix(router): patch unexpected null pointer dereference on unauthenticated requests
 - [2026-10-20 20:06:00] fix: fix CORS header mismatch on preflight checks
 - [2026-10-20 20:07:00] feat(core): provide granular webhook notification dispatcher
+- [2026-10-20 20:08:00] docs: revise API reference for authentication endpoints to improve developer experience
