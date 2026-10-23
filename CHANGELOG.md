@@ -772,3 +772,4 @@
 - [2026-10-20 20:08:00] docs: revise API reference for authentication endpoints to improve developer experience
 - [2026-10-22 20:00:00] feat(auth): integrate granular websocket subscription channel
 - [2026-10-22 20:01:00] feat: enable granular full-text search indexing
+- [2026-10-23 20:00:00] fix(router): handle intermittent cors header mismatch on preflight checks after token expiration
