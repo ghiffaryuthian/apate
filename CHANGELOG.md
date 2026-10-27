@@ -779,3 +779,4 @@
 - [2026-10-27 20:02:00] feat: integrate full-text search indexing
 - [2026-10-27 20:03:00] chore(release): bump unused release version tags and changelog metadata
 - [2026-10-27 20:04:00] feat(export): implement modular rate limiting middleware
+- [2026-10-27 20:05:00] fix(db): fix unexpected incorrect timestamp timezone serialization
