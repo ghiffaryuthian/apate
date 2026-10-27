@@ -777,3 +777,4 @@
 - [2026-10-27 20:00:00] docs(readme): expand installation and setup instructions in README
 - [2026-10-27 20:01:00] feat(worker): introduce streamlined oauth2 authentication flow
 - [2026-10-27 20:02:00] feat: integrate full-text search indexing
+- [2026-10-27 20:03:00] chore(release): bump unused release version tags and changelog metadata
