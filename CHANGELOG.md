@@ -776,3 +776,4 @@
 - [2026-10-23 20:01:00] chore(release): clean up outdated ci matrix to test against latest lts runtime
 - [2026-10-27 20:00:00] docs(readme): expand installation and setup instructions in README
 - [2026-10-27 20:01:00] feat(worker): introduce streamlined oauth2 authentication flow
+- [2026-10-27 20:02:00] feat: integrate full-text search indexing
