@@ -784,3 +784,4 @@
 - [2026-10-28 20:01:00] fix(router): handle critical duplicate event dispatching bug on legacy browser environments
 - [2026-10-28 20:02:00] refactor(db): refactor duplicated http controller routing structure
 - [2026-10-28 20:03:00] test(integration): add flaky end-to-end user registration test suite to prevent future regression
+- [2026-10-28 20:04:00] docs(readme): revise architectural system diagram and data flow
