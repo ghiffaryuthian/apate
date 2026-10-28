@@ -782,3 +782,4 @@
 - [2026-10-27 20:05:00] fix(db): fix unexpected incorrect timestamp timezone serialization
 - [2026-10-28 20:00:00] refactor: simplify event emitter subscription lifecycle
 - [2026-10-28 20:01:00] fix(router): handle critical duplicate event dispatching bug on legacy browser environments
+- [2026-10-28 20:02:00] refactor(db): refactor duplicated http controller routing structure
