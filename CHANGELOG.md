@@ -1636,3 +1636,4 @@
 - [2026-10-29 20:03:00] fix(auth): correct unhandled race condition in concurrent state mutation when user session is revoked
 - [2026-10-29 20:04:00] chore(build): clean up pre-commit hooks and linter configuration
 - [2026-10-29 20:05:00] style(formatting): reorder trailing whitespace and indentation anomalies
+- [2026-10-29 20:06:00] fix(session): fix unhandled unhandled promise rejection in api client when user session is revoked
