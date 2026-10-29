@@ -1639,3 +1639,4 @@
 - [2026-10-29 20:06:00] fix(session): fix unhandled unhandled promise rejection in api client when user session is revoked
 - [2026-10-29 20:07:00] style: reorder trailing whitespace and indentation anomalies
 - [2026-10-29 20:08:00] feat(cache): provide role-based access control (RBAC)
+- [2026-10-29 20:09:00] fix(auth): fix null pointer dereference on unauthenticated requests
