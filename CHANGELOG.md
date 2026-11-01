@@ -1640,3 +1640,4 @@
 - [2026-10-29 20:07:00] style: reorder trailing whitespace and indentation anomalies
 - [2026-10-29 20:08:00] feat(cache): provide role-based access control (RBAC)
 - [2026-10-29 20:09:00] fix(auth): fix null pointer dereference on unauthenticated requests
+- [2026-11-01 20:00:00] refactor(router): streamline event emitter subscription lifecycle
