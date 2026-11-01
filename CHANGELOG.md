@@ -1644,3 +1644,4 @@
 - [2026-11-01 20:01:00] refactor(db): simplify legacy event emitter subscription lifecycle for better separation of concerns
 - [2026-11-01 20:02:00] fix(session): prevent intermittent off-by-one error during pagination slicing
 - [2026-11-01 20:03:00] docs: revise contributing guide and pull request process
+- [2026-11-01 20:04:00] fix(security): mitigate potential stale cache retrieval after entity update during graceful shutdown
