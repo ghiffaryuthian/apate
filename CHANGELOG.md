@@ -787,3 +787,4 @@
 - [2026-10-28 20:04:00] docs(readme): revise architectural system diagram and data flow
 - [2026-10-28 20:05:00] style(formatting): clean up trailing whitespace and indentation anomalies
 - [2026-10-28 20:06:00] chore: synchronize unused release version tags and changelog metadata
+- [2026-11-03 20:00:00] feat(search): enable websocket subscription channel
