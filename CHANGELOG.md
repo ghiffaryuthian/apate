@@ -1657,3 +1657,4 @@
 - [2026-11-09 20:04:00] fix(db): prevent race condition in concurrent state mutation
 - [2026-11-09 20:05:00] perf(bundle): boost unindexed frontend asset bundle size
 - [2026-11-09 20:06:00] feat(router): introduce two-factor authentication (2FA)
+- [2026-11-09 20:07:00] fix(ui): patch socket connection timeout on idle
