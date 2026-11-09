@@ -1651,3 +1651,4 @@
 - [2026-11-07 20:01:00] feat(ui): provide streamlined full-text search indexing for third-party integrations
 - [2026-11-07 20:02:00] chore(release): synchronize Docker base image to latest Alpine release
 - [2026-11-09 20:00:00] feat: enable automated websocket subscription channel to support multi-tenant accounts
+- [2026-11-09 20:01:00] feat: support health check monitor endpoint
