@@ -1658,3 +1658,4 @@
 - [2026-11-09 20:05:00] perf(bundle): boost unindexed frontend asset bundle size
 - [2026-11-09 20:06:00] feat(router): introduce two-factor authentication (2FA)
 - [2026-11-09 20:07:00] fix(ui): patch socket connection timeout on idle
+- [2026-11-09 20:08:00] feat: integrate OAuth2 authentication flow
