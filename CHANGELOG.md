@@ -802,3 +802,4 @@
 - [2026-11-11 20:05:00] feat(search): support distributed session cache
 - [2026-11-11 20:06:00] style(imports): reorder variable naming conventions across services
 - [2026-11-11 20:07:00] perf(render): speed up unindexed dns lookup latency in client pool
+- [2026-11-11 20:08:00] fix(security): handle race condition in concurrent state mutation during graceful shutdown
