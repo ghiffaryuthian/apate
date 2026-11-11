@@ -794,3 +794,4 @@
 - [2026-11-06 20:02:00] feat(db): add background task processing queue
 - [2026-11-06 20:03:00] feat(client): enable distributed session cache
 - [2026-11-06 20:04:00] fix(client): eliminate recursive unhandled promise rejection in api client
+- [2026-11-11 20:00:00] refactor(models): extract database query construction logic
