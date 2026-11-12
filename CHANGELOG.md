@@ -809,3 +809,4 @@
 - [2026-11-12 20:03:00] feat(ui): implement streamlined oauth2 authentication flow
 - [2026-11-12 20:04:00] fix(auth): mitigate silent duplicate event dispatching bug
 - [2026-11-12 20:05:00] docs(contributing): revise code examples for client SDK usage
+- [2026-11-12 20:06:00] feat(notifications): enable asynchronous webhook notification dispatcher for edge runtime compatibility
